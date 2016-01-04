@@ -34,47 +34,47 @@ Style: particles,PT Sans,52,&H00FFFFFF,&H000000FF,&H00180706,&H00000000,0,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 5,0:00:01.86,0:00:04.98,Default,,0,0,0,,Поздравляю всех поступивших в школу Ёгецу.{Welcome to Yougetsu Academy, everyone, and congratulations.}
-Dialogue: 5,0:00:05.60,0:00:09.24,Default,,0,0,0,,Я, глава совета учащихся, Эрина Синдо,{I'm Shindou Erina, your student council president.}
-Dialogue: 5,0:00:09.24,0:00:15.49,Default,,0,0,0,,по-настоящему счастлива видеть всех вас.{I am truly happy to be able to meet you here today.}
+Dialogue: 5,0:00:01.86,0:00:04.98,Default,,0,0,0,,Поздравляю всех поступивших в школу Ёгецу.
+Dialogue: 5,0:00:05.60,0:00:09.24,Default,,0,0,0,,Я, глава совета учащихся, Эрина Синдо,
+Dialogue: 5,0:00:09.24,0:00:15.49,Default,,0,0,0,,по-настоящему счастлива видеть всех вас.
 Dialogue: 0,0:00:15.49,0:00:18.99,signs-doki,,0,0,0,,{\fs50\blur0.9\fax0.3\fnArial Narrow\b1\c&H4B4B4B&\frz341.4\pos(77.334,47.666)}Церемония поступления
-Dialogue: 5,0:00:15.49,0:00:18.99,Default,,0,0,0,,Надеюсь, мы все запомним этот прекрасный день...{Let us remember this wonderful day...}
-Dialogue: 5,0:00:18.99,0:00:21.58,Default,,0,0,0,,{\i1}Да тут двойных хвостиков больше, чем я думал!{More twintails than I ever dared to hope for!}
-Dialogue: 5,0:00:22.46,0:00:26.60,Default,,0,0,0,,{\i1}Например, её хвостики милы невзирая на незамысловатость.{Her twintails, for example, \Nare lovely despite their simplicity.}
-Dialogue: 5,0:00:26.60,0:00:28.33,Default,,0,0,0,,{\i1}Буду звать её «Клубничными близнецами».{Let's call her Strawberry Tails.}
-Dialogue: 5,0:00:28.60,0:00:29.88,Default,,0,0,0,,{\i1}Так, а здесь...{And then there's...}
-Dialogue: 5,0:00:30.94,0:00:32.84,Default,,0,0,0,,{\i1}С ней и так всё ясно.{We can skip this one.}
-Dialogue: 5,0:00:33.42,0:00:37.16,Default,,0,0,0,,{\i1}Теперь такую причёску редко встретишь.{Her style is pretty rare these days.}
-Dialogue: 5,0:00:37.16,0:00:39.34,Default,,0,0,0,,{\i1}Пожалуй, назову «Невинными близнецами».{I guess she can be Innocent Tails.}
-Dialogue: 5,0:00:39.74,0:00:43.78,Default,,0,0,0,,{\i1}Так-так, теперь настала очередь главы.{And there's the prez.}
+Dialogue: 5,0:00:15.49,0:00:18.99,Default,,0,0,0,,Надеюсь, мы все запомним этот прекрасный день...
+Dialogue: 5,0:00:18.99,0:00:21.58,Default,,0,0,0,,{\i1}Да тут двойных хвостиков больше, чем я думал!
+Dialogue: 5,0:00:22.46,0:00:26.60,Default,,0,0,0,,{\i1}Например, её хвостики милы невзирая на незамысловатость.
+Dialogue: 5,0:00:26.60,0:00:28.33,Default,,0,0,0,,{\i1}Буду звать её «Клубничными близнецами».
+Dialogue: 5,0:00:28.60,0:00:29.88,Default,,0,0,0,,{\i1}Так, а здесь...
+Dialogue: 5,0:00:30.94,0:00:32.84,Default,,0,0,0,,{\i1}С ней и так всё ясно.
+Dialogue: 5,0:00:33.42,0:00:37.16,Default,,0,0,0,,{\i1}Теперь такую причёску редко встретишь.
+Dialogue: 5,0:00:37.16,0:00:39.34,Default,,0,0,0,,{\i1}Пожалуй, назову «Невинными близнецами».
+Dialogue: 5,0:00:39.74,0:00:43.78,Default,,0,0,0,,{\i1}Так-так, теперь настала очередь главы.
 Dialogue: 0,0:00:41.81,0:00:46.35,signs-doki,,0,0,0,,{\blur0.7\fax0.3\fnArial Narrow\b1\c&H444444&\move(307,-249,307,246.333,0,4525)\frz345.9}Церемония поступления
 Dialogue: 0,0:00:41.81,0:00:46.35,signs-doki,,0,0,0,,{\blur0.7\fax0.3\frz345.6\fnArial Narrow\b1\c&H444444&\move(18.667,-320,18.667,175,0,4525)}Ёгецу
-Dialogue: 5,0:00:43.78,0:00:48.52,Default,,0,0,0,,{\i1}У неё такие... такие прекрасные и утончённые хвостики!{Has the world ever seen twintails as noble and beautiful as hers?!}
-Dialogue: 5,0:00:48.52,0:00:52.08,Default,,0,0,0,,{\i1}То, как они вьются на концах и сохраняют форму,{The curly ends give them an airy and weightless impression.}
-Dialogue: 5,0:00:52.08,0:00:54.72,Default,,0,0,0,,{\i1}выдаёт её хорошую наследственность.{Her cultured childhood is made manifest!}
-Dialogue: 5,0:00:54.72,0:00:57.15,Default,,0,0,0,,{\i1}А из-за их танца при каждом движении,{When she gestures, they trail her movement!}
-Dialogue: 5,0:00:57.15,0:01:00.37,Default,,0,0,0,,{\i1}она точь-в-точь как принцесса во время бала!{She's a Madonna with twintails!}
-Dialogue: 5,0:01:01.26,0:01:05.12,Default,,0,0,0,,{\i1}Три года в одной школе с изумительными хвостиками главы {With such a gloriously twintailed student council president,}
-Dialogue: 5,0:01:06.36,0:01:09.65,Default,,0,0,0,,{\i1}будут настоящим раем!{the next three years of \Nhigh school will be paradise!}
+Dialogue: 5,0:00:43.78,0:00:48.52,Default,,0,0,0,,{\i1}У неё такие... такие прекрасные и утончённые хвостики!
+Dialogue: 5,0:00:48.52,0:00:52.08,Default,,0,0,0,,{\i1}То, как они вьются на концах и сохраняют форму,
+Dialogue: 5,0:00:52.08,0:00:54.72,Default,,0,0,0,,{\i1}выдаёт её хорошую наследственность.
+Dialogue: 5,0:00:54.72,0:00:57.15,Default,,0,0,0,,{\i1}А из-за их танца при каждом движении,
+Dialogue: 5,0:00:57.15,0:01:00.37,Default,,0,0,0,,{\i1}она точь-в-точь как принцесса во время бала!
+Dialogue: 5,0:01:01.26,0:01:05.12,Default,,0,0,0,,{\i1}Три года в одной школе с изумительными хвостиками главы 
+Dialogue: 5,0:01:06.36,0:01:09.65,Default,,0,0,0,,{\i1}будут настоящим раем!
 Dialogue: 0,0:01:09.65,0:01:11.63,signs,,0,0,0,done,{\xshad-1\yshad-1\fax-0.37\fscx75\fscy75\c&H696868&\b1\4c&H545149&\blur0.5\pos(643.997,182.246)\frz20.19}К{\fscy75.25\fscx75.25}л{\fscy75.5\fscx75.5}а{\fscy75.75\fscx75.75}с{\fscy76\fscx76}с  {\fscy75.5\fscx76.5}1{\fscx77\fscy75.5}А
 Dialogue: 0,0:01:11.63,0:01:13.63,signs,,0,0,0,done,{\fs70\an4\c&H252525&\blur0.8\fscx24\fscy24\fax0.4\frz20.4\pos(446,392)}{If you answered (1), please write down which \N\hclub(s) you're interested in or would like to join.}Выбрав «да», укажите в какой\Nкружок вы вступите или хотели бы вступить.
 Dialogue: 0,0:01:11.63,0:01:13.63,signs,,0,0,0,done,{\fs70\c&H252525&\fax0.4\blur0.8\fscx24\fscy24\frz20.29\pos(566,300)}Да                     Нет                   Не знаю
 Dialogue: 0,0:01:11.63,0:01:13.63,signs,,0,0,0,done,{\fs70\fax0.4\blur0.8\an4\c&H252525&ы\fscx24\fscy24\frz22.67\pos(596,566)}Если ваш ответ «нет» или «не знаю», пожалуйста, напишите почему.{If you answered (2) or (3), please write down your reason.}
 Dialogue: 0,0:01:11.63,0:01:13.63,signs,,0,0,0,done,{\fs70\fax0.4\c&H474747&\fscx50\fscy50\blur1\b0\frz17.98\pos(478,148)}О{\fax0.402}п{\fax0.404\c&H252525&}р{\fax0.405}о{\fax0.409}с {\fax0.411}п{\fax0.412}о {\fax0.414}к{\fax0.416}р{\fax0.418}у{\fax0.419}ж{\fax0.421}к{\fax0.423}а{\fax0.425}м
 Dialogue: 0,0:01:11.63,0:01:13.63,signs,,0,0,0,done,{v\fs70\c&H252525&\fax0.4\blur0.8\fscx24\fscy24\frz20.01\pos(489,276)}{Are you interested in clubs?}Хотите ли вы вступить в какой-либо кружок?
-Dialogue: 5,0:01:15.66,0:01:18.62,Default,,0,0,0,,Разумеется, туда, где есть хвостики.{The correct answer is always twintails.}
-Dialogue: 5,0:01:20.30,0:01:22.26,Default,,0,0,0,,{\i1}Чего размечтался?!{Stop spacing out!}
-Dialogue: 5,0:01:22.26,0:01:23.98,Default,,0,0,0,,{\i1}Заполняй опросник!{Fill out the questionnaire!}
-Dialogue: 5,0:01:23.98,0:01:26.02,Default,,0,0,0,,{\i1}Отстань, я как раз собирался!{Get off my back! I was just about to!}
-Dialogue: 5,0:01:26.02,0:01:30.23,Default,,0,0,0,,Время вышло. Пожалуйста, передайте опросные листы впереди сидящим.{Okay, please pass the questionnaires along to me.}
-Dialogue: 5,0:01:42.48,0:01:46.16,Default,,0,0,0,,Ой, кто-то забыл подписаться.{Oh my, there's one without a name.}
-Dialogue: 5,0:01:48.28,0:01:50.42,Default,,0,0,0,,Возможно, это я. Поторопился.{That's probably mine. I was in a hurry.}
-Dialogue: 5,0:01:50.76,0:01:52.56,Default,,0,0,0,,Значит это лист Содзи Мицуки.{Okay. Mitsuka Souji, then.}
-Dialogue: 5,0:01:52.56,0:01:55.42,Default,,0,0,0,,Посмотрим... ты хочешь создать новый кружок?{Um... I guess you want to start a new club?}
-Dialogue: 5,0:01:55.42,0:01:58.42,Default,,0,0,0,,А что будет делать твой «Кружок хвостиков»?{What does this "Twintails Club" of yours do?}
-Dialogue: 0,0:01:59.39,0:02:04.06,DefaultTop2,,0,0,0,,«Кружок хвостиков»? Что за чушь?!{What's with that, "Twintails Club"?!}
-Dialogue: 5,0:02:00.62,0:02:01.80,Default,,0,0,0,,Проклятье.{Oh, crap.}
-Dialogue: 5,0:02:04.74,0:02:05.68,Default,,0,0,0,,Вот болван.{Dumb as always.}
+Dialogue: 5,0:01:15.66,0:01:18.62,Default,,0,0,0,,Разумеется, туда, где есть хвостики.
+Dialogue: 5,0:01:20.30,0:01:22.26,Default,,0,0,0,,{\i1}Чего размечтался?!
+Dialogue: 5,0:01:22.26,0:01:23.98,Default,,0,0,0,,{\i1}Заполняй опросник!
+Dialogue: 5,0:01:23.98,0:01:26.02,Default,,0,0,0,,{\i1}Отстань, я как раз собирался!
+Dialogue: 5,0:01:26.02,0:01:30.23,Default,,0,0,0,,Время вышло. Пожалуйста, передайте опросные листы впереди сидящим.
+Dialogue: 5,0:01:42.48,0:01:46.16,Default,,0,0,0,,Ой, кто-то забыл подписаться.
+Dialogue: 5,0:01:48.28,0:01:50.42,Default,,0,0,0,,Возможно, это я. Поторопился.
+Dialogue: 5,0:01:50.76,0:01:52.56,Default,,0,0,0,,Значит это лист Содзи Мицуки.
+Dialogue: 5,0:01:52.56,0:01:55.42,Default,,0,0,0,,Посмотрим... ты хочешь создать новый кружок?
+Dialogue: 5,0:01:55.42,0:01:58.42,Default,,0,0,0,,А что будет делать твой «Кружок хвостиков»?
+Dialogue: 0,0:01:59.39,0:02:04.06,DefaultTop2,,0,0,0,,«Кружок хвостиков»? Что за чушь?!
+Dialogue: 5,0:02:00.62,0:02:01.80,Default,,0,0,0,,Проклятье.
+Dialogue: 5,0:02:04.74,0:02:05.68,Default,,0,0,0,,Вот болван.
 Dialogue: 10,0:02:07.97,0:02:07.97,OP,,0,0,0,,{OP start}
 Dialogue: 0,0:02:08.93,0:02:09.64,OP,,0,0,0,,{\fad(200,200)\blur3}Зачем
 Dialogue: 0,0:02:09.64,0:02:11.10,OP,,0,0,0,,{\fad(200,200)\blur3}cпросить тебя я хочу
@@ -358,320 +358,320 @@ Dialogue: 0,0:03:13.83,0:03:15.79,OP,,0,0,0,,{\fad(200,0)\blur3}а целый в
 Dialogue: 0,0:03:15.79,0:03:17.37,OP,,0,0,0,,{\fad(0,200)\blur3\3c&HAA8BFB&\4c&HF9B4E1&}а целый вихрь новых чувств!
 Dialogue: 0,0:03:17.37,0:03:22.46,OP,,0,0,0,,{\fad(200,200)\blur3\3c&HAA8BFB&\4c&HF9B4E1&}Лови мой СОС-сигнал — меня, герой,
 Dialogue: 0,0:03:21.79,0:03:22.46,OP,,0,0,0,,{\an9\fad(100,100)\blur3\3c&HAA8BFB&\4c&HF9B4E1&}спасай!
-Dialogue: 5,0:03:37.98,0:03:37.98,Default,chapter,0,0,0,,{Part A}
+Dialogue: 5,0:03:37.98,0:03:37.98,Default,chapter,0,0,0,,
 Dialogue: 2,0:03:39.07,0:03:43.53,signs,,0,0,0,done,{\fad(480,480)\b1\fscx80\fscy80\q2\bord0\blur0.4\fax-0.2\pos(822.857,574.702)\c&HFFFFFF&}Эпизод 1: Земля — планета двойных хвостиков{Episode 1: Earth Is A Twintails Planet}
 Dialogue: 1,0:03:39.07,0:03:43.53,signs,,0,0,0,done,{\fad(480,480)\b1\fscx80\fscy80\q2\bord1.4\blur0.5\c&H180706&\1a&HFF&\fax-0.2\t(435,480,\1a&H00&)\t(3980,4025,\1a&HFF&)\pos(822.857,574.702)}Эпизод 1: Земля — планета двойных хвостиков{Episode 1: Earth Is A Twintails Planet}
 Dialogue: 0,0:03:39.07,0:03:43.53,signs,,0,0,0,done,{\fad(480,480)\b1\fscx80\fscy80\q2\bord2\blur1.6\alpha&H80&\1a&HFF&\fax-0.2\t(435,480,\1a&H00&)\t(3980,4025,\1a&HFF&)\pos(822.857,574.702)}Эпизод 1: Земля — планета двойных хвостиков{Episode 1: Earth Is A Twintails Planet}
-Dialogue: 5,0:03:39.08,0:03:41.18,Default,,0,0,10,,Разумеется, такого кружка нет.{Of course there's no such club.}
-Dialogue: 5,0:03:41.18,0:03:42.66,Default,,0,0,10,,Написал же такое!{That was so awkward.}
-Dialogue: 5,0:03:43.66,0:03:46.16,Default,,0,0,0,,Говорю же, написал не подумав!{I told you, it was a Freudian slip in writing!}
-Dialogue: 5,0:03:46.16,0:03:47.99,Default,,0,0,0,,Тем хуже!{Even worse!}
-Dialogue: 5,0:03:48.44,0:03:50.16,Default,,0,0,0,,Дурилка двухвостая.{You twintails nut.}
-Dialogue: 5,0:03:50.70,0:03:54.02,Default,,0,0,0,,Вот они, твои обожаемые хвостики, лови!{Here they are, your beloved twintails!}
-Dialogue: 5,0:03:54.02,0:03:55.04,Default,,0,0,0,,А ты!..{You're not gonna like this!}
-Dialogue: 5,0:04:12.26,0:04:13.43,Default,,0,0,0,,Да-а, сильна.{I can't beat you.}
-Dialogue: 5,0:04:14.80,0:04:19.42,Default,,0,0,0,,Кстати, деда говорил что надо помочь тебе в тренировках с мечом.{By the way, Grandpa says you should swing by for practice.}
-Dialogue: 5,0:04:19.42,0:04:21.65,Default,,0,0,0,,Но с тебя четыре порции карри.{You'll have to treat me to curry for four, though.}
-Dialogue: 5,0:04:21.65,0:04:23.00,Default,,0,0,0,,Не много ли?{Get real.}
-Dialogue: 5,0:04:23.00,0:04:24.66,Default,,0,0,0,,Порции у нас огромен...{Our servings are so large that—}
-Dialogue: 5,0:04:23.74,0:04:25.95,DefaultAlt,,0,0,0,,У нас действительно большие порции.{Our servings are serious business.}
-Dialogue: 5,0:04:26.40,0:04:27.66,Default,,0,0,0,,Больше двух не съешь.{Two servings should be plenty.}
-Dialogue: 5,0:04:27.66,0:04:28.96,Default,,0,0,0,,Мама!{Mom!}
-Dialogue: 5,0:04:28.96,0:04:30.28,Default,,0,0,0,,А что с кафе?{What about the café?}
-Dialogue: 5,0:04:30.28,0:04:31.20,Default,,0,0,0,,Доброго дня.{Afternoon.}
-Dialogue: 5,0:04:32.06,0:04:33.54,Default,,0,0,0,,Я на распродажу.{I gotta catch a sale.}
-Dialogue: 5,0:04:33.54,0:04:36.46,Default,,0,0,0,,Обед вам я уже приготовила.{I left some food for you two.}
-Dialogue: 5,0:04:36.46,0:04:38.58,Default,,0,0,0,,Содзи можешь «съесть» на десерт.{Souji is the dessert, if you catch my drift.}
-Dialogue: 5,0:04:41.76,0:04:43.71,Default,,0,0,0,,Больше задора, молодёжь!{Smells like teen spirit!}
-Dialogue: 5,0:04:44.98,0:04:46.46,Default,,0,0,0,,Ну, мама...{Man, my mother...}
-Dialogue: 5,0:04:47.32,0:04:48.78,Default,,0,0,0,,Что-то не так?{What's wrong?}
-Dialogue: 5,0:04:48.78,0:04:50.60,Default,,0,0,0,,Н-ничего.{N-Nothing.}
-Dialogue: 5,0:04:50.60,0:04:52.34,Default,,0,0,0,,Ты покраснела.{You're beet red.}
-Dialogue: 5,0:04:53.10,0:04:54.06,Default,,0,0,0,,Ну тебя.{Shut up.}
-Dialogue: 5,0:04:54.06,0:04:55.60,Default,,0,0,0,,Э, ты чего?{Huh?}
-Dialogue: 5,0:04:55.60,0:04:58.04,Default,,0,0,0,,Ты меня в краску вгоняешь!{You're just an embarrassing person.}
-Dialogue: 5,0:04:58.04,0:05:00.02,Default,,0,0,0,,Да что я сделал-то?{What did I do this time?}
-Dialogue: 5,0:05:15.58,0:05:17.33,Default,,0,0,0,,Возвращаясь к теме...{Why don't you do it yourself?}
-Dialogue: 5,0:05:17.33,0:05:19.62,Default,,0,0,0,,Ты и сам можешь создать кружок хвостиков.{If you want a twintails club, just make one.}
-Dialogue: 5,0:05:20.26,0:05:23.34,Default,,0,0,0,,Я даже могла бы в него вступить.{I guess I could join if you're desperate.}
-Dialogue: 5,0:05:23.34,0:05:25.55,Default,,0,0,0,,Но с тебя карри и десерты весь год!{You can treat me to curry and dessert for a year!}
-Dialogue: 5,0:05:25.55,0:05:29.68,Default,,0,0,0,,А если серьёзно? Можешь чего посоветовать?{Don't you have any serious advice?}
-Dialogue: 5,0:05:29.68,0:05:31.62,Default,,0,0,0,,Мы же друзья.{You're supposed to be my friend.}
-Dialogue: 5,0:05:32.30,0:05:34.38,Default,,0,0,0,,Просто вместе всё время.{More like I'm stuck with you.}
-Dialogue: 5,0:05:36.42,0:05:37.18,Default,,0,0,0,,В чём дело?{What's wrong?}
-Dialogue: 5,0:05:41.54,0:05:42.80,Default,,0,0,0,,Посетительница?{A customer?}
-Dialogue: 5,0:05:43.62,0:05:47.69,Default,,0,0,0,,Простите, на сегодня мы уже закрылись...{Sorry, we've closed for the day...}
-Dialogue: 5,0:06:01.68,0:06:03.46,Default,,0,0,0,,Содзи, ты это...{Hey, Souji...}
-Dialogue: 5,0:06:04.74,0:06:07.04,Default,,0,0,0,,Упс, прости, я машинально.{Oh, sorry. Wasn't on purpose.}
-Dialogue: 5,0:06:07.04,0:06:08.92,Default,,0,0,0,,Да ладно, я не против.{You can touch them if you want.}
-Dialogue: 5,0:06:10.08,0:06:12.08,Default,,0,0,0,,Здесь не занято?{Is this seat taken?}
-Dialogue: 5,0:06:12.84,0:06:15.84,Default,,0,0,0,,Спасибочки!{Thanks!}
-Dialogue: 5,0:06:19.23,0:06:20.98,Default,,0,0,0,,Стоп, стоп, стоп, стоп!{Hold it right there!}
-Dialogue: 5,0:06:20.98,0:06:21.98,Default,,0,0,0,,Да?{And you are?}
-Dialogue: 5,0:06:21.98,0:06:23.28,Default,,0,0,0,,Кто {\i1}вы{\i0} такая?{Who are }{\i1}{you}{\i0}{?}
-Dialogue: 5,0:06:23.28,0:06:24.28,Default,,0,0,0,,Не стоит беспокойства.{Please don't mind me.}
-Dialogue: 5,0:06:24.28,0:06:25.36,Default,,0,0,0,,Ещё как {\i1}стоит{\i0}!{I }{\i1}{do}{\i0}{ mind!}
-Dialogue: 5,0:06:25.36,0:06:27.55,Default,,0,0,0,,Вам вообще что нужно?!{I was talking to Souji here!}
-Dialogue: 5,0:06:30.15,0:06:32.91,Default,,0,0,0,,Тебе меня не задеть,{You can't hurt me.}
-Dialogue: 5,0:06:33.26,0:06:34.91,Default,,0,0,0,,мальчик одевшийся девочкой.{I'm not into traps anyway.}
-Dialogue: 5,0:06:38.78,0:06:40.16,Default,,0,0,0,,Да какой я мальчик?!{What did you just say?!}
-Dialogue: 5,0:06:40.16,0:06:42.29,Default,,0,0,0,,Не кричи! Давай разберёмся!{Calm down! Let's try to resolve this.}
-Dialogue: 5,0:06:42.29,0:06:44.16,Default,,0,0,0,,Простите, что не представилась.{Let me introduce myself.}
-Dialogue: 5,0:06:45.08,0:06:47.46,Default,,0,0,0,,Меня зовут Туар.{I'm Thuearle.}
-Dialogue: 5,0:06:47.46,0:06:49.97,Default,,0,0,0,,Туар?{Thuearle?}
-Dialogue: 5,0:06:49.97,0:06:51.08,Default,,0,0,0,,Да.{Indeed.}
-Dialogue: 5,0:06:51.76,0:06:54.22,Default,,0,0,0,,Тебе же нравятся двойные хвостики?{You like twintails, don't you?}
-Dialogue: 5,0:06:54.22,0:06:56.00,Default,,0,0,0,,Без ума от них!{I friggin' love 'em!}
-Dialogue: 5,0:06:57.43,0:06:59.22,Default,,0,0,0,,Тогда, надень, пожалуйста!{Then please wear this!}
-Dialogue: 5,0:06:59.22,0:07:01.98,Default,,0,0,0,,Не бойся, тут нет никакого подвоха!{There is absolutely, positively no reason to worry whatsoever!}
-Dialogue: 5,0:07:01.98,0:07:03.25,Default,,0,0,0,,Давай!{Come on!}
-Dialogue: 5,0:07:03.25,0:07:05.38,Default,,0,0,0,,Никаких «давай»!{Like hell he will!}
-Dialogue: 5,0:07:05.38,0:07:08.04,Default,,0,0,0,,Вы из совсем странных преследовательниц?{Are you some new brand of sex offender?}
-Dialogue: 5,0:07:08.04,0:07:08.84,Default,,0,0,0,,Нет!{Oh, no!}
-Dialogue: 5,0:07:08.84,0:07:10.49,Default,,0,0,0,,И никакая я не странная!{I'm an innocent citizen!}
-Dialogue: 5,0:07:10.49,0:07:14.36,Default,,0,0,0,,Ваша манера отпираться делает вас ещё более подозрительной!{You're suspicious no matter what you say!}
-Dialogue: 5,0:07:14.36,0:07:16.98,Default,,0,0,0,,Нет времени всё объяснять.{I don't have the time to explain.}
-Dialogue: 5,0:07:16.98,0:07:18.37,Default,,0,0,0,,Прошу, надень браслет!{Please put the bracelet on!}
-Dialogue: 5,0:07:18.90,0:07:20.48,Default,,0,0,0,,Не одевай, Содзи!{Don't do it, Souji.}
-Dialogue: 5,0:07:20.48,0:07:23.06,Default,,0,0,0,,Наверняка она, как какая-нибудь цыганка,{She's like those street vendors that blow up in your face}
-Dialogue: 5,0:07:23.06,0:07:25.83,Default,,0,0,0,,потребует уйму денег стоит только надеть браслет!{when you don't shell out \Nfor their worthless trinkets!}
-Dialogue: 5,0:07:25.83,0:07:27.88,Default,,0,0,0,,Деньги мне не нужны!{I don't want your money!}
-Dialogue: 5,0:07:27.88,0:07:29.72,Default,,0,0,0,,Пожалуйста, надень его!{Please put it on!}
-Dialogue: 5,0:07:29.72,0:07:32.36,Default,,0,0,0,,Если наденешь...{If you put it on...}
-Dialogue: 5,0:07:32.36,0:07:35.08,Default,,0,0,0,,я всё стерплю, даже если будет больно.{Даже если будет больно, я и вида не подам.}{I'll be brave, even though it'll hurt!}
-Dialogue: 5,0:07:35.08,0:07:40.02,Default,,0,0,0,,Потому, натяни на себя как настоящий мужчина!{Here, put it on that great, \Nbig tree trunk of yours!}
-Dialogue: 5,0:07:41.14,0:07:42.89,Default,,0,0,0,,Хватит пошлых намёков!{Stop with the innuendo!}
-Dialogue: 5,0:07:42.89,0:07:45.27,Default,,0,0,0,,Озабоченным везде пошлости видятся.{Oh, please. Get your mind out of the gutter.}
-Dialogue: 5,0:07:46.02,0:07:48.12,Default,,0,0,0,,Айка, не нагнетай!{Hey, calm down, Aika!}
-Dialogue: 5,0:07:48.12,0:07:49.61,Default,,0,0,0,,Туар, вы тоже.{Please stop this, Thuearle.}
-Dialogue: 5,0:07:51.36,0:07:52.86,Default,,0,0,0,,{\i1}Они бы ей шли.{They'd look great.}
-Dialogue: 5,0:07:52.86,0:07:56.28,Default,,0,0,0,,{\i1}Будь у неё хвостики, они были бы сногсшибательны.{Twintails would look goddamn amazing on her.}
-Dialogue: 5,0:07:57.06,0:07:58.60,Default,,0,0,0,,Прошу, поверь мне.{Please believe me.}
-Dialogue: 5,0:07:58.60,0:08:01.79,Default,,0,0,0,,Я что угодно сделаю, если ты его наденешь!{If you put it on, I'll do anything you say!}
-Dialogue: 5,0:08:02.78,0:08:03.66,Default,,0,0,0,,Что угодно?{Anything?}
-Dialogue: 5,0:08:03.66,0:08:06.28,Default,,0,0,0,,Да, абсолютно всё.{Anything at all.}
-Dialogue: 5,0:08:06.28,0:08:09.67,Default,,0,0,0,,Хоть невинное, хоть совсем необычное...{Whether you like vanilla or something different...}
-Dialogue: 5,0:08:09.67,0:08:11.00,Default,,0,0,0,,Необычное?{Something different?!}
-Dialogue: 5,0:08:11.00,0:08:12.84,Default,,0,0,0,,Очнись, Содзи!{Earth to Souji!}
-Dialogue: 5,0:08:12.84,0:08:16.68,Default,,0,0,0,,Очевидно же, что кроме как завязать хвостики он ничего не попросит!{You should know the only thing \Nhe'll ask you to do is wear twintails!}
-Dialogue: 5,0:08:18.82,0:08:19.93,Default,,0,0,0,,Нет, я бы не...{Don't listen to her!}
-Dialogue: 5,0:08:19.93,0:08:22.06,Default,,0,0,0,,Вот и я так подумала...{Okay... good...}
-Dialogue: 5,0:08:22.06,0:08:23.81,Default,,0,0,0,,Вот, возьми лучше её!{Okay, you can start with these!}
-Dialogue: 5,0:08:24.31,0:08:26.56,Default,,0,0,0,,Она куда легче, чем кажется!{They're lighter than you'd think!}
-Dialogue: 5,0:08:26.56,0:08:29.06,Default,,0,0,0,,Трогай, не стесняйся!{Come on! Don't be shy!}
-Dialogue: 5,0:08:29.06,0:08:31.32,Default,,0,0,0,,Обхвати обеими руками, вот так, и...{You put both your hands here, and—}
-Dialogue: 5,0:08:31.32,0:08:33.10,Default,,0,0,0,,С чего...{But...}
-Dialogue: 5,0:08:33.10,0:08:35.07,Default,,0,0,0,,Она мягка и упруга словно пуддинг!{They're like a great, big bowl of pudding!}
-Dialogue: 5,0:08:35.07,0:08:36.32,Default,,0,0,0,,Ну же...{C'mon, take a scoop.}
-Dialogue: 5,0:08:36.32,0:08:38.14,Default,,0,0,0,,Прочь от него, оторва!{Get away from him, you tramp!}
-Dialogue: 5,0:08:38.14,0:08:39.70,Default,,0,0,0,qcd,По тебе ремень плачет!{I'm gonna send you straight to intensive care!}
-Dialogue: 5,0:08:39.70,0:08:41.54,Default,,0,0,0,,В такие игры — без меня!{I don't want a threesome!}
-Dialogue: 5,0:08:41.54,0:08:42.92,Default,,0,0,0,,Игры?!{A what?!}
-Dialogue: 5,0:08:42.92,0:08:44.41,Default,,0,0,0,,Времени в обрез.{We don't have time.}
-Dialogue: 5,0:08:45.28,0:08:49.21,Default,,0,0,0,,Без твоей помощи все хвостики этого мира будут уничтожены!{Without you, this world will be robbed of its twintails!}
-Dialogue: 5,0:08:50.28,0:08:51.21,Default,,0,0,0,,Что?!{Say that again!}
-Dialogue: 5,0:08:51.50,0:08:53.36,Default,,0,0,0,,Как это понимать?!{What do you mean?!}
-Dialogue: 5,0:08:53.36,0:08:56.22,Default,,0,0,0,,Как они могут быть уничтожены?!{Twintails will vanish from this world?!}
-Dialogue: 5,0:08:56.22,0:08:56.90,Default,,0,0,0,,Говори!{Tell me!}
-Dialogue: 5,0:08:56.90,0:08:57.88,Default,,0,0,0,,Надела!{Gotcha!}
-Dialogue: 5,0:09:04.35,0:09:05.73,Default,,0,0,0,,Позже объясню.{I'll explain later.}
-Dialogue: 5,0:09:06.36,0:09:07.73,Default,,0,0,0,,А пока пошли со мной.{Come with me.}
-Dialogue: 5,0:09:18.74,0:09:20.42,Default,,0,0,0,,Это что такое было?{What the hell is going on?}
-Dialogue: 5,0:09:20.42,0:09:22.08,Default,,0,0,0,,Где мы?{Where are we?}
-Dialogue: 5,0:09:22.08,0:09:24.00,Default,,0,0,0,,Прошу прощения,{Sorry about that.}
-Dialogue: 5,0:09:24.00,0:09:26.96,Default,,0,0,0,,но так будет проще объяснить.{We had to hurry.}
-Dialogue: 5,0:09:26.96,0:09:31.22,Default,,0,0,0,,Смотри Содзи, мы у развлекательного центра «Максим Сорахат».{Look, Souji. That's the convention center.}{The Maxim Sorahate one.}
-Dialogue: 5,0:09:31.22,0:09:32.59,Default,,0,0,0,,Не может быть.{You're kidding.}
-Dialogue: 5,0:09:33.00,0:09:35.68,Default,,0,0,0,,Сюда минут 20 на машине ехать.{It takes twenty minutes to get here by car.}
-Dialogue: 5,0:09:35.68,0:09:38.01,Default,,0,0,0,,Ты нас как-то усыпила?{Did you drug us?!}
-Dialogue: 5,0:09:38.01,0:09:41.58,Default,,0,0,0,,По правде, я не собиралась и тебя переносить.{I didn't mean to bring \i1you\i0 along for the ride.}
-Dialogue: 5,0:09:41.58,0:09:43.86,Default,,0,0,0,,Видимо, ты попала в радиус действия.{I guess you were inside the effective radius.}
-Dialogue: 5,0:09:45.34,0:09:46.46,Default,,0,0,0,,Эй!{Hey!}
-Dialogue: 5,0:09:49.56,0:09:50.90,Default,,0,0,0,,Ты жива?{Are you okay?}
-Dialogue: 5,0:09:52.86,0:09:55.28,Default,,0,0,0,,Она из нашей школы.{She's from our school.}
-Dialogue: 5,0:09:55.28,0:09:56.40,Default,,0,0,0,,Из старших классов.{A grade or two above us.}
-Dialogue: 5,0:09:59.54,0:10:01.48,Default,,0,0,0,,Клубничные близнецы!{It's Strawberry Tails!}
-Dialogue: 5,0:10:01.48,0:10:02.28,Default,,0,0,0,,Э?{What?}
-Dialogue: 5,0:10:02.92,0:10:04.12,Default,,0,0,0,,Я её вспомнил!{I remember her!}
-Dialogue: 5,0:10:04.12,0:10:05.92,Default,,0,0,0,,Её аккуратная причёска{She knows what love for twintails is!}
-Dialogue: 5,0:10:05.92,0:10:08.86,Default,,0,0,0,,заставила моё сердце биться сильнее!{I could feel it in the neat \Nand tidy way she bound them!}
-Dialogue: 5,0:10:08.86,0:10:09.70,Default,,0,0,0,,Ты серьёзно?{Are you insane?}
-Dialogue: 5,0:10:09.70,0:10:12.80,Default,,0,0,0,,Именно из-за хвостиков на неё и напали.{Her twintails are why this happened to her.}
-Dialogue: 5,0:10:17.36,0:10:19.80,Default,,0,0,0,,Как я сюда попала?{Why am I here?}
-Dialogue: 5,0:10:19.80,0:10:21.43,Default,,0,0,0,,Что произошло?{What happened to you?!}
-Dialogue: 5,0:10:21.96,0:10:24.36,Default,,0,0,0,,Недавно у тебя были чудесные хвостики!{You used to have such wonderful twintails!}
-Dialogue: 5,0:10:24.36,0:10:25.84,Default,,0,0,0,,Не это главное!{That's not the issue here!}
-Dialogue: 5,0:10:25.84,0:10:27.52,Default,,0,0,0,,Вы о чём?{What do you mean?}
-Dialogue: 5,0:10:27.52,0:10:28.98,Default,,0,0,0,,О твоих волосах!{Your hairstyle!}
-Dialogue: 5,0:10:28.98,0:10:31.44,Default,,0,0,0,,Они были разделены на два хвостика.{You had it split into two tails.}
-Dialogue: 5,0:10:31.44,0:10:33.06,Default,,0,0,0,,У меня?{Me?}
-Dialogue: 5,0:10:33.06,0:10:36.15,Default,,0,0,0,,Я бы ни за что не сделала такую причёску.{No way. I'd never wear my hair like that.}
-Dialogue: 5,0:10:37.16,0:10:38.50,Default,,0,0,0,,Как же так?{The horror!}
-Dialogue: 5,0:10:38.50,0:10:43.20,Default,,0,0,0,,Элемерианцы, напав, похитили её тягу к хвостикам.{The Elemerians attacked her\N and stole her twintails attribute.}
-Dialogue: 5,0:10:43.92,0:10:44.95,Default,,0,0,0,,Это как?{Explain!}
-Dialogue: 5,0:10:44.95,0:10:49.64,Default,,0,0,0,,Проще говоря, та часть её души, что любит хвостики, была украдена.{They basically stole the part of her that loves twintails.}
-Dialogue: 5,0:10:52.94,0:10:54.04,Default,,0,0,0,,Что там...{What—}
-Dialogue: 5,0:10:54.04,0:10:54.96,Default,,0,0,0,,Это они!{It's them!}
-Dialogue: 5,0:11:18.64,0:11:20.11,Default,,0,0,0,,Элемерианцы...{Elemerians...}
-Dialogue: 5,0:11:21.48,0:11:22.60,Default,,0,0,0,,Значит, они...{Was it them?}
-Dialogue: 5,0:11:26.87,0:11:27.74,Default,,0,0,0,,Отлично!{Yes! Take it from them!}
-Dialogue: 5,0:11:27.74,0:11:30.82,Default,,0,0,0,,Если и дальше так продолжим,{Yes! Take it from them!}
-Dialogue: 5,0:11:30.82,0:11:33.58,Default,,0,0,0,,все хвостики мира будут наши!{Take the twintails from this world!}
-Dialogue: 5,0:11:34.86,0:11:35.98,Default,,0,0,0,,Слушай, Содзи,{Hey, Souji.}
-Dialogue: 5,0:11:35.98,0:11:37.94,Default,,0,0,0,,он, часом, не твой двойник?{Did they clone you or something?}{maybe "Were you guys separated at birth?" whichever's funnier}
-Dialogue: 5,0:11:37.94,0:11:39.00,Default,,0,0,0,,Сдурела?!{Don't compare me to him!}
-Dialogue: 5,0:11:39.46,0:11:42.26,Default,,0,0,0,,Где-то рядом есть ещё. Только где?{Where is she? She should be here.}
-Dialogue: 5,0:11:42.26,0:11:43.64,Default,,0,0,0,,Аска!{Asuka!}
-Dialogue: 5,0:11:45.13,0:11:47.26,Default,,0,0,0,,Мама! Мамочка!{Mommy! Mommy!}
-Dialogue: 5,0:12:02.50,0:12:04.61,Default,,0,0,0,,Какая же она соблазнительная!{This raging energy!}
-Dialogue: 5,0:12:04.61,0:12:07.16,Default,,0,0,0,,Но задание превыше всего.{But I have a mission.}
-Dialogue: 5,0:12:07.16,0:12:08.91,Default,,0,0,0,,Не поддамся желанию!{I will not yield!}
-Dialogue: 5,0:12:11.54,0:12:12.74,Default,,0,0,0,,Не могу удержаться!{I can't resist!}
-Dialogue: 5,0:12:12.74,0:12:15.80,Default,,0,0,0,,Солдаты! Принесите сюда {\i1}его{\i0}!{Men! Bring it! Bring it here!}
-Dialogue: 5,0:12:29.14,0:12:30.22,Default,,0,0,0,,Иди!{Go!}
-Dialogue: 5,0:12:30.22,0:12:32.06,Default,,0,0,0,,Кролики и их друзья ждут тебя!{The bunnies and their friends are waiting!}
-Dialogue: 5,0:12:38.06,0:12:40.06,Default,,0,0,0,,Что там? Я очень занят!{Why do you interrupt me?}
-Dialogue: 5,0:12:42.57,0:12:45.82,Default,,0,0,0,,Что? Превосходные хвостики?{You captured what? Outstanding twintails?}
-Dialogue: 5,0:12:48.92,0:12:51.14,Default,,0,0,0,,Это хвостики...{Those twintails!}
+Dialogue: 5,0:03:39.08,0:03:41.18,Default,,0,0,10,,Разумеется, такого кружка нет.
+Dialogue: 5,0:03:41.18,0:03:42.66,Default,,0,0,10,,Написал же такое!
+Dialogue: 5,0:03:43.66,0:03:46.16,Default,,0,0,0,,Говорю же, написал не подумав!
+Dialogue: 5,0:03:46.16,0:03:47.99,Default,,0,0,0,,Тем хуже!
+Dialogue: 5,0:03:48.44,0:03:50.16,Default,,0,0,0,,Дурилка двухвостая.
+Dialogue: 5,0:03:50.70,0:03:54.02,Default,,0,0,0,,Вот они, твои обожаемые хвостики, лови!
+Dialogue: 5,0:03:54.02,0:03:55.04,Default,,0,0,0,,А ты!..
+Dialogue: 5,0:04:12.26,0:04:13.43,Default,,0,0,0,,Да-а, сильна.
+Dialogue: 5,0:04:14.80,0:04:19.42,Default,,0,0,0,,Кстати, деда говорил что надо помочь тебе в тренировках с мечом.
+Dialogue: 5,0:04:19.42,0:04:21.65,Default,,0,0,0,,Но с тебя четыре порции карри.
+Dialogue: 5,0:04:21.65,0:04:23.00,Default,,0,0,0,,Не много ли?
+Dialogue: 5,0:04:23.00,0:04:24.66,Default,,0,0,0,,Порции у нас огромен...
+Dialogue: 5,0:04:23.74,0:04:25.95,DefaultAlt,,0,0,0,,У нас действительно большие порции.
+Dialogue: 5,0:04:26.40,0:04:27.66,Default,,0,0,0,,Больше двух не съешь.
+Dialogue: 5,0:04:27.66,0:04:28.96,Default,,0,0,0,,Мама!
+Dialogue: 5,0:04:28.96,0:04:30.28,Default,,0,0,0,,А что с кафе?
+Dialogue: 5,0:04:30.28,0:04:31.20,Default,,0,0,0,,Доброго дня.
+Dialogue: 5,0:04:32.06,0:04:33.54,Default,,0,0,0,,Я на распродажу.
+Dialogue: 5,0:04:33.54,0:04:36.46,Default,,0,0,0,,Обед вам я уже приготовила.
+Dialogue: 5,0:04:36.46,0:04:38.58,Default,,0,0,0,,Содзи можешь «съесть» на десерт.
+Dialogue: 5,0:04:41.76,0:04:43.71,Default,,0,0,0,,Больше задора, молодёжь!
+Dialogue: 5,0:04:44.98,0:04:46.46,Default,,0,0,0,,Ну, мама...
+Dialogue: 5,0:04:47.32,0:04:48.78,Default,,0,0,0,,Что-то не так?
+Dialogue: 5,0:04:48.78,0:04:50.60,Default,,0,0,0,,Н-ничего.
+Dialogue: 5,0:04:50.60,0:04:52.34,Default,,0,0,0,,Ты покраснела.
+Dialogue: 5,0:04:53.10,0:04:54.06,Default,,0,0,0,,Ну тебя.
+Dialogue: 5,0:04:54.06,0:04:55.60,Default,,0,0,0,,Э, ты чего?
+Dialogue: 5,0:04:55.60,0:04:58.04,Default,,0,0,0,,Ты меня в краску вгоняешь!
+Dialogue: 5,0:04:58.04,0:05:00.02,Default,,0,0,0,,Да что я сделал-то?
+Dialogue: 5,0:05:15.58,0:05:17.33,Default,,0,0,0,,Возвращаясь к теме...
+Dialogue: 5,0:05:17.33,0:05:19.62,Default,,0,0,0,,Ты и сам можешь создать кружок хвостиков.
+Dialogue: 5,0:05:20.26,0:05:23.34,Default,,0,0,0,,Я даже могла бы в него вступить.
+Dialogue: 5,0:05:23.34,0:05:25.55,Default,,0,0,0,,Но с тебя карри и десерты весь год!
+Dialogue: 5,0:05:25.55,0:05:29.68,Default,,0,0,0,,А если серьёзно? Можешь чего посоветовать?
+Dialogue: 5,0:05:29.68,0:05:31.62,Default,,0,0,0,,Мы же друзья.
+Dialogue: 5,0:05:32.30,0:05:34.38,Default,,0,0,0,,Просто вместе всё время.
+Dialogue: 5,0:05:36.42,0:05:37.18,Default,,0,0,0,,В чём дело?
+Dialogue: 5,0:05:41.54,0:05:42.80,Default,,0,0,0,,Посетительница?
+Dialogue: 5,0:05:43.62,0:05:47.69,Default,,0,0,0,,Простите, на сегодня мы уже закрылись...
+Dialogue: 5,0:06:01.68,0:06:03.46,Default,,0,0,0,,Содзи, ты это...
+Dialogue: 5,0:06:04.74,0:06:07.04,Default,,0,0,0,,Упс, прости, я машинально.
+Dialogue: 5,0:06:07.04,0:06:08.92,Default,,0,0,0,,Да ладно, я не против.
+Dialogue: 5,0:06:10.08,0:06:12.08,Default,,0,0,0,,Здесь не занято?
+Dialogue: 5,0:06:12.84,0:06:15.84,Default,,0,0,0,,Спасибочки!
+Dialogue: 5,0:06:19.23,0:06:20.98,Default,,0,0,0,,Стоп, стоп, стоп, стоп!
+Dialogue: 5,0:06:20.98,0:06:21.98,Default,,0,0,0,,Да?
+Dialogue: 5,0:06:21.98,0:06:23.28,Default,,0,0,0,,Кто {\i1}вы{\i0} такая?{Who are }{\i1}{you}{\i0}
+Dialogue: 5,0:06:23.28,0:06:24.28,Default,,0,0,0,,Не стоит беспокойства.
+Dialogue: 5,0:06:24.28,0:06:25.36,Default,,0,0,0,,Ещё как {\i1}стоит{\i0}!{I }{\i1}{do}{\i0}
+Dialogue: 5,0:06:25.36,0:06:27.55,Default,,0,0,0,,Вам вообще что нужно?!
+Dialogue: 5,0:06:30.15,0:06:32.91,Default,,0,0,0,,Тебе меня не задеть,
+Dialogue: 5,0:06:33.26,0:06:34.91,Default,,0,0,0,,мальчик одевшийся девочкой.
+Dialogue: 5,0:06:38.78,0:06:40.16,Default,,0,0,0,,Да какой я мальчик?!
+Dialogue: 5,0:06:40.16,0:06:42.29,Default,,0,0,0,,Не кричи! Давай разберёмся!
+Dialogue: 5,0:06:42.29,0:06:44.16,Default,,0,0,0,,Простите, что не представилась.
+Dialogue: 5,0:06:45.08,0:06:47.46,Default,,0,0,0,,Меня зовут Туар.
+Dialogue: 5,0:06:47.46,0:06:49.97,Default,,0,0,0,,Туар?
+Dialogue: 5,0:06:49.97,0:06:51.08,Default,,0,0,0,,Да.
+Dialogue: 5,0:06:51.76,0:06:54.22,Default,,0,0,0,,Тебе же нравятся двойные хвостики?
+Dialogue: 5,0:06:54.22,0:06:56.00,Default,,0,0,0,,Без ума от них!
+Dialogue: 5,0:06:57.43,0:06:59.22,Default,,0,0,0,,Тогда, надень, пожалуйста!
+Dialogue: 5,0:06:59.22,0:07:01.98,Default,,0,0,0,,Не бойся, тут нет никакого подвоха!
+Dialogue: 5,0:07:01.98,0:07:03.25,Default,,0,0,0,,Давай!
+Dialogue: 5,0:07:03.25,0:07:05.38,Default,,0,0,0,,Никаких «давай»!
+Dialogue: 5,0:07:05.38,0:07:08.04,Default,,0,0,0,,Вы из совсем странных преследовательниц?
+Dialogue: 5,0:07:08.04,0:07:08.84,Default,,0,0,0,,Нет!
+Dialogue: 5,0:07:08.84,0:07:10.49,Default,,0,0,0,,И никакая я не странная!
+Dialogue: 5,0:07:10.49,0:07:14.36,Default,,0,0,0,,Ваша манера отпираться делает вас ещё более подозрительной!
+Dialogue: 5,0:07:14.36,0:07:16.98,Default,,0,0,0,,Нет времени всё объяснять.
+Dialogue: 5,0:07:16.98,0:07:18.37,Default,,0,0,0,,Прошу, надень браслет!
+Dialogue: 5,0:07:18.90,0:07:20.48,Default,,0,0,0,,Не одевай, Содзи!
+Dialogue: 5,0:07:20.48,0:07:23.06,Default,,0,0,0,,Наверняка она, как какая-нибудь цыганка,
+Dialogue: 5,0:07:23.06,0:07:25.83,Default,,0,0,0,,потребует уйму денег стоит только надеть браслет!
+Dialogue: 5,0:07:25.83,0:07:27.88,Default,,0,0,0,,Деньги мне не нужны!
+Dialogue: 5,0:07:27.88,0:07:29.72,Default,,0,0,0,,Пожалуйста, надень его!
+Dialogue: 5,0:07:29.72,0:07:32.36,Default,,0,0,0,,Если наденешь...
+Dialogue: 5,0:07:32.36,0:07:35.08,Default,,0,0,0,,я всё стерплю, даже если будет больно.{Даже если будет больно, я и вида не подам.}
+Dialogue: 5,0:07:35.08,0:07:40.02,Default,,0,0,0,,Потому, натяни на себя как настоящий мужчина!
+Dialogue: 5,0:07:41.14,0:07:42.89,Default,,0,0,0,,Хватит пошлых намёков!
+Dialogue: 5,0:07:42.89,0:07:45.27,Default,,0,0,0,,Озабоченным везде пошлости видятся.
+Dialogue: 5,0:07:46.02,0:07:48.12,Default,,0,0,0,,Айка, не нагнетай!
+Dialogue: 5,0:07:48.12,0:07:49.61,Default,,0,0,0,,Туар, вы тоже.
+Dialogue: 5,0:07:51.36,0:07:52.86,Default,,0,0,0,,{\i1}Они бы ей шли.
+Dialogue: 5,0:07:52.86,0:07:56.28,Default,,0,0,0,,{\i1}Будь у неё хвостики, они были бы сногсшибательны.
+Dialogue: 5,0:07:57.06,0:07:58.60,Default,,0,0,0,,Прошу, поверь мне.
+Dialogue: 5,0:07:58.60,0:08:01.79,Default,,0,0,0,,Я что угодно сделаю, если ты его наденешь!
+Dialogue: 5,0:08:02.78,0:08:03.66,Default,,0,0,0,,Что угодно?
+Dialogue: 5,0:08:03.66,0:08:06.28,Default,,0,0,0,,Да, абсолютно всё.
+Dialogue: 5,0:08:06.28,0:08:09.67,Default,,0,0,0,,Хоть невинное, хоть совсем необычное...
+Dialogue: 5,0:08:09.67,0:08:11.00,Default,,0,0,0,,Необычное?
+Dialogue: 5,0:08:11.00,0:08:12.84,Default,,0,0,0,,Очнись, Содзи!
+Dialogue: 5,0:08:12.84,0:08:16.68,Default,,0,0,0,,Очевидно же, что кроме как завязать хвостики он ничего не попросит!
+Dialogue: 5,0:08:18.82,0:08:19.93,Default,,0,0,0,,Нет, я бы не...
+Dialogue: 5,0:08:19.93,0:08:22.06,Default,,0,0,0,,Вот и я так подумала...
+Dialogue: 5,0:08:22.06,0:08:23.81,Default,,0,0,0,,Вот, возьми лучше её!
+Dialogue: 5,0:08:24.31,0:08:26.56,Default,,0,0,0,,Она куда легче, чем кажется!
+Dialogue: 5,0:08:26.56,0:08:29.06,Default,,0,0,0,,Трогай, не стесняйся!
+Dialogue: 5,0:08:29.06,0:08:31.32,Default,,0,0,0,,Обхвати обеими руками, вот так, и...
+Dialogue: 5,0:08:31.32,0:08:33.10,Default,,0,0,0,,С чего...
+Dialogue: 5,0:08:33.10,0:08:35.07,Default,,0,0,0,,Она мягка и упруга словно пуддинг!
+Dialogue: 5,0:08:35.07,0:08:36.32,Default,,0,0,0,,Ну же...
+Dialogue: 5,0:08:36.32,0:08:38.14,Default,,0,0,0,,Прочь от него, оторва!
+Dialogue: 5,0:08:38.14,0:08:39.70,Default,,0,0,0,qcd,По тебе ремень плачет!
+Dialogue: 5,0:08:39.70,0:08:41.54,Default,,0,0,0,,В такие игры — без меня!
+Dialogue: 5,0:08:41.54,0:08:42.92,Default,,0,0,0,,Игры?!
+Dialogue: 5,0:08:42.92,0:08:44.41,Default,,0,0,0,,Времени в обрез.
+Dialogue: 5,0:08:45.28,0:08:49.21,Default,,0,0,0,,Без твоей помощи все хвостики этого мира будут уничтожены!
+Dialogue: 5,0:08:50.28,0:08:51.21,Default,,0,0,0,,Что?!
+Dialogue: 5,0:08:51.50,0:08:53.36,Default,,0,0,0,,Как это понимать?!
+Dialogue: 5,0:08:53.36,0:08:56.22,Default,,0,0,0,,Как они могут быть уничтожены?!
+Dialogue: 5,0:08:56.22,0:08:56.90,Default,,0,0,0,,Говори!
+Dialogue: 5,0:08:56.90,0:08:57.88,Default,,0,0,0,,Надела!
+Dialogue: 5,0:09:04.35,0:09:05.73,Default,,0,0,0,,Позже объясню.
+Dialogue: 5,0:09:06.36,0:09:07.73,Default,,0,0,0,,А пока пошли со мной.
+Dialogue: 5,0:09:18.74,0:09:20.42,Default,,0,0,0,,Это что такое было?
+Dialogue: 5,0:09:20.42,0:09:22.08,Default,,0,0,0,,Где мы?
+Dialogue: 5,0:09:22.08,0:09:24.00,Default,,0,0,0,,Прошу прощения,
+Dialogue: 5,0:09:24.00,0:09:26.96,Default,,0,0,0,,но так будет проще объяснить.
+Dialogue: 5,0:09:26.96,0:09:31.22,Default,,0,0,0,,Смотри Содзи, мы у развлекательного центра «Максим Сорахат».{Look, Souji. That's the convention center.}
+Dialogue: 5,0:09:31.22,0:09:32.59,Default,,0,0,0,,Не может быть.
+Dialogue: 5,0:09:33.00,0:09:35.68,Default,,0,0,0,,Сюда минут 20 на машине ехать.
+Dialogue: 5,0:09:35.68,0:09:38.01,Default,,0,0,0,,Ты нас как-то усыпила?
+Dialogue: 5,0:09:38.01,0:09:41.58,Default,,0,0,0,,По правде, я не собиралась и тебя переносить.
+Dialogue: 5,0:09:41.58,0:09:43.86,Default,,0,0,0,,Видимо, ты попала в радиус действия.
+Dialogue: 5,0:09:45.34,0:09:46.46,Default,,0,0,0,,Эй!
+Dialogue: 5,0:09:49.56,0:09:50.90,Default,,0,0,0,,Ты жива?
+Dialogue: 5,0:09:52.86,0:09:55.28,Default,,0,0,0,,Она из нашей школы.
+Dialogue: 5,0:09:55.28,0:09:56.40,Default,,0,0,0,,Из старших классов.
+Dialogue: 5,0:09:59.54,0:10:01.48,Default,,0,0,0,,Клубничные близнецы!
+Dialogue: 5,0:10:01.48,0:10:02.28,Default,,0,0,0,,Э?
+Dialogue: 5,0:10:02.92,0:10:04.12,Default,,0,0,0,,Я её вспомнил!
+Dialogue: 5,0:10:04.12,0:10:05.92,Default,,0,0,0,,Её аккуратная причёска
+Dialogue: 5,0:10:05.92,0:10:08.86,Default,,0,0,0,,заставила моё сердце биться сильнее!
+Dialogue: 5,0:10:08.86,0:10:09.70,Default,,0,0,0,,Ты серьёзно?
+Dialogue: 5,0:10:09.70,0:10:12.80,Default,,0,0,0,,Именно из-за хвостиков на неё и напали.
+Dialogue: 5,0:10:17.36,0:10:19.80,Default,,0,0,0,,Как я сюда попала?
+Dialogue: 5,0:10:19.80,0:10:21.43,Default,,0,0,0,,Что произошло?
+Dialogue: 5,0:10:21.96,0:10:24.36,Default,,0,0,0,,Недавно у тебя были чудесные хвостики!
+Dialogue: 5,0:10:24.36,0:10:25.84,Default,,0,0,0,,Не это главное!
+Dialogue: 5,0:10:25.84,0:10:27.52,Default,,0,0,0,,Вы о чём?
+Dialogue: 5,0:10:27.52,0:10:28.98,Default,,0,0,0,,О твоих волосах!
+Dialogue: 5,0:10:28.98,0:10:31.44,Default,,0,0,0,,Они были разделены на два хвостика.
+Dialogue: 5,0:10:31.44,0:10:33.06,Default,,0,0,0,,У меня?
+Dialogue: 5,0:10:33.06,0:10:36.15,Default,,0,0,0,,Я бы ни за что не сделала такую причёску.
+Dialogue: 5,0:10:37.16,0:10:38.50,Default,,0,0,0,,Как же так?
+Dialogue: 5,0:10:38.50,0:10:43.20,Default,,0,0,0,,Элемерианцы, напав, похитили её тягу к хвостикам.
+Dialogue: 5,0:10:43.92,0:10:44.95,Default,,0,0,0,,Это как?
+Dialogue: 5,0:10:44.95,0:10:49.64,Default,,0,0,0,,Проще говоря, та часть её души, что любит хвостики, была украдена.
+Dialogue: 5,0:10:52.94,0:10:54.04,Default,,0,0,0,,Что там...
+Dialogue: 5,0:10:54.04,0:10:54.96,Default,,0,0,0,,Это они!
+Dialogue: 5,0:11:18.64,0:11:20.11,Default,,0,0,0,,Элемерианцы...
+Dialogue: 5,0:11:21.48,0:11:22.60,Default,,0,0,0,,Значит, они...
+Dialogue: 5,0:11:26.87,0:11:27.74,Default,,0,0,0,,Отлично!
+Dialogue: 5,0:11:27.74,0:11:30.82,Default,,0,0,0,,Если и дальше так продолжим,
+Dialogue: 5,0:11:30.82,0:11:33.58,Default,,0,0,0,,все хвостики мира будут наши!
+Dialogue: 5,0:11:34.86,0:11:35.98,Default,,0,0,0,,Слушай, Содзи,
+Dialogue: 5,0:11:35.98,0:11:37.94,Default,,0,0,0,,он, часом, не твой двойник?{Did they clone you or something?}
+Dialogue: 5,0:11:37.94,0:11:39.00,Default,,0,0,0,,Сдурела?!
+Dialogue: 5,0:11:39.46,0:11:42.26,Default,,0,0,0,,Где-то рядом есть ещё. Только где?
+Dialogue: 5,0:11:42.26,0:11:43.64,Default,,0,0,0,,Аска!
+Dialogue: 5,0:11:45.13,0:11:47.26,Default,,0,0,0,,Мама! Мамочка!
+Dialogue: 5,0:12:02.50,0:12:04.61,Default,,0,0,0,,Какая же она соблазнительная!
+Dialogue: 5,0:12:04.61,0:12:07.16,Default,,0,0,0,,Но задание превыше всего.
+Dialogue: 5,0:12:07.16,0:12:08.91,Default,,0,0,0,,Не поддамся желанию!
+Dialogue: 5,0:12:11.54,0:12:12.74,Default,,0,0,0,,Не могу удержаться!
+Dialogue: 5,0:12:12.74,0:12:15.80,Default,,0,0,0,,Солдаты! Принесите сюда {\i1}его{\i0}!
+Dialogue: 5,0:12:29.14,0:12:30.22,Default,,0,0,0,,Иди!
+Dialogue: 5,0:12:30.22,0:12:32.06,Default,,0,0,0,,Кролики и их друзья ждут тебя!
+Dialogue: 5,0:12:38.06,0:12:40.06,Default,,0,0,0,,Что там? Я очень занят!
+Dialogue: 5,0:12:42.57,0:12:45.82,Default,,0,0,0,,Что? Превосходные хвостики?
+Dialogue: 5,0:12:48.92,0:12:51.14,Default,,0,0,0,,Это хвостики...
 Dialogue: 1,0:12:50.49,0:12:53.95,signs,,0,0,0,done,{\fad(950,0)\fnMachineC\i1\fax-0.22\c&H131723&\fscx70\fscy50\pos(931.77,514.76)\blur0.5\bord0}Я БУДУ\N{\c&H1100E3&}ХВОСТИКИ\N{\c&H131723&}НОСИТЬ!
 Dialogue: 0,0:12:50.49,0:12:53.95,signs,,0,0,0,done,{\fad(950,0)\fnMachineC\i1\fax-0.22\fscx70\fscy50\pos(931.77,514.76)\blur1\bord1.5\3c&HF9F9FB&\c&HF9F9FB&}Я БУДУ\NХВОСТИКИ\NНОСИТЬ!
-Dialogue: 5,0:12:51.14,0:12:53.08,Default,,0,0,0,,главы совета!{Prez!}
-Dialogue: 5,0:12:53.91,0:12:53.95,Default,chapter,0,0,0,,{Part B}
+Dialogue: 5,0:12:51.14,0:12:53.08,Default,,0,0,0,,главы совета!
+Dialogue: 5,0:12:53.91,0:12:53.95,Default,chapter,0,0,0,,
 Dialogue: 1,0:12:53.95,0:12:57.46,signs,,0,0,0,done,{\fad(0,900)\fnMachineC\i1\fax-0.22\c&H131723&\fscx70\fscy50\pos(931.77,514.76)\blur0.5\bord0}Я БУДУ\N{\c&H1100E3&}ХВОСТИКИ\N{\c&H131723&}НОСИТЬ!
 Dialogue: 0,0:12:53.95,0:12:57.46,signs,,0,0,0,done,{\fad(0,900)\fnMachineC\i1\fax-0.22\fscx70\fscy50\pos(931.77,514.76)\blur1\bord1.5\3c&HF9F9FB&\c&HF9F9FB&}Я БУДУ\NХВОСТИКИ\NНОСИТЬ!
-Dialogue: 5,0:13:07.00,0:13:09.48,Default,,0,0,0,,Кто вы такие?{Who are you people?}
-Dialogue: 5,0:13:09.48,0:13:11.66,Default,,0,0,0,,Отпустите её!{Let the girl go!}
-Dialogue: 5,0:13:11.66,0:13:13.93,Default,,0,0,0,,Увы, не могу этого сделать.{I cannot oblige your request.}
-Dialogue: 5,0:13:14.32,0:13:17.08,Default,,0,0,0,,Почему вы вообще такое творите?{Why would you do these horrible things?}
-Dialogue: 5,0:13:17.08,0:13:19.72,Default,,0,0,0,,Таков приказ повелителя.{We have orders from above.}
-Dialogue: 5,0:13:19.72,0:13:22.90,Default,,0,0,0,,Я искренне сожалею,{I personally feel nothing but regret,}
-Dialogue: 5,0:13:22.90,0:13:25.46,Default,,0,0,0,,но это необходимо для достижения высшей цели.{but the greater cause takes priority.}
-Dialogue: 5,0:13:25.46,0:13:28.80,Default,,0,0,0,,А теперь я должен забрать твою тягу.{And now, your attribute will be mine.}
-Dialogue: 5,0:13:28.80,0:13:30.32,Default,,0,0,0,,Мою тягу?{My attribute?}
-Dialogue: 5,0:13:30.88,0:13:33.40,Default,,0,0,0,,Силу твоих хвостиков!{The strength of your twintails!}
-Dialogue: 5,0:13:33.40,0:13:36.44,Default,,0,0,0,,Явись же, священный круг.{May ye fill the holy ring!}
-Dialogue: 5,0:13:46.28,0:13:47.47,Default,,0,0,0,,Глава!{Prez!}
-Dialogue: 5,0:13:50.86,0:13:52.26,Default,,0,0,0,,Не прощу!{You will pay!}
-Dialogue: 5,0:13:52.26,0:13:54.02,Default,,0,0,0,,Как они посмели уничтожить{How dare you do this to the prez?!}
-Dialogue: 5,0:13:54.02,0:13:56.97,Default,,0,0,0,,прекрасные хвостики главы?!{How dare you rob her of her twintails?!}
-Dialogue: 5,0:13:57.78,0:13:59.44,Default,,0,0,0,,Говори, Туар.{Tell me, Thuearle.}
-Dialogue: 5,0:13:59.44,0:14:01.30,Default,,0,0,0,,Чего ты от меня ждёшь?{What do I have to do?}
-Dialogue: 5,0:14:01.30,0:14:04.58,Default,,0,0,0,,Ты же неспроста нас сюда перенесла!{You must have brought me here for a reason!}
-Dialogue: 5,0:14:04.58,0:14:06.90,Default,,0,0,0,,Наконец-то и до дела дошло!{Finally we're getting somewhere!}
-Dialogue: 5,0:14:06.90,0:14:09.99,Default,,0,0,0,,Используй браслет для превращения!{Use the bracelet to transform yourself, Souji!}
-Dialogue: 5,0:14:09.99,0:14:11.56,Default,,0,0,0,,Превращения?{Transform?}
-Dialogue: 5,0:14:11.56,0:14:16.62,Default,,0,0,0,,Этот браслет создаст боевое облаченье, которое сделает тебя намного сильнее.{That bracelet will produce a combat suit designed to increase your abilities.}
-Dialogue: 5,0:14:16.62,0:14:21.54,Default,,0,0,0,,В нём ты без проблем их всех победишь!{You'll be more than a match for those monsters!}
-Dialogue: 5,0:14:21.54,0:14:22.64,Default,,0,0,0,,Правда?{Is that true?}
-Dialogue: 5,0:14:22.64,0:14:24.52,Default,,0,0,0,,Погоди-ка!{H-Hold on!}
-Dialogue: 5,0:14:24.52,0:14:26.06,Default,,0,0,0,,Он сможет превратиться?{Will he really transform?}
-Dialogue: 5,0:14:26.06,0:14:30.01,Default,,0,0,0,,Пусть так, но почему вы предлагаете ему лезть в пекло?{And why are you pushing all the dangerous things on Souji?}
-Dialogue: 5,0:14:30.01,0:14:31.54,Default,,0,0,0,,Не тупи!{You fool!}
-Dialogue: 5,0:14:31.54,0:14:33.72,Default,,0,0,0,,Они охотятся за хвостиками!{They're going after the twintails!}
-Dialogue: 5,0:14:33.72,0:14:35.98,Default,,0,0,0,,Я не могу стоять в стороне!{I cannot let this slide!}
-Dialogue: 5,0:14:35.98,0:14:39.38,Default,,0,0,0,,Содзи, дайте команду на превращение.{Souji. Order it to transform.}
-Dialogue: 5,0:14:39.38,0:14:40.94,Default,,0,0,0,,Браслет сам его выполнит.{The bracelet will do the work.}
-Dialogue: 5,0:14:41.98,0:14:42.98,Default,,0,0,0,,Понял.{Got it!}
-Dialogue: 5,0:15:02.00,0:15:04.08,Default,,0,0,0,,Ничего себе хвостики!{What amazingly cute twintails!}
-Dialogue: 5,0:15:04.08,0:15:05.84,Default,,0,0,0,,Что у меня с голосом?!{Wait, is that my voice?!}
-Dialogue: 5,0:15:05.84,0:15:08.59,Default,,0,0,0,,Это что — я?!{Is this me?!}
-Dialogue: 5,0:15:08.59,0:15:11.06,Default,,0,0,0,,Эй, это как понимать?!{What the hell is going on?!}
-Dialogue: 5,0:15:11.06,0:15:15.76,Default,,0,0,0,,Это единственное эффективное против них оружие.{That's the only equipment effective against them.}
-Dialogue: 5,0:15:15.76,0:15:16.97,Default,,0,0,0,,Боехвост!{The Tailgear!}
-Dialogue: 5,0:15:17.42,0:15:21.39,Default,,0,0,0,,Я спрашиваю, какого чёрта он девочкой стал?!{I'm asking why Souji turned into a girl!}
-Dialogue: 5,0:15:22.30,0:15:23.18,Default,,0,0,0,,Айка!{Aika!}
-Dialogue: 5,0:15:23.18,0:15:28.34,Default,,0,0,0,,Всё имеет свою цену. Великая сила и стоит немало!{Great power requires great sacrifice!}
-Dialogue: 5,0:15:28.34,0:15:31.50,Default,,0,0,0,,А почему цена именно такая...{As for why she looks like she does...}
-Dialogue: 5,0:15:31.50,0:15:34.11,Default,,0,0,0,,пусть это побудет секретом.{Let us reveal that at a later date.}
+Dialogue: 5,0:13:07.00,0:13:09.48,Default,,0,0,0,,Кто вы такие?
+Dialogue: 5,0:13:09.48,0:13:11.66,Default,,0,0,0,,Отпустите её!
+Dialogue: 5,0:13:11.66,0:13:13.93,Default,,0,0,0,,Увы, не могу этого сделать.
+Dialogue: 5,0:13:14.32,0:13:17.08,Default,,0,0,0,,Почему вы вообще такое творите?
+Dialogue: 5,0:13:17.08,0:13:19.72,Default,,0,0,0,,Таков приказ повелителя.
+Dialogue: 5,0:13:19.72,0:13:22.90,Default,,0,0,0,,Я искренне сожалею,
+Dialogue: 5,0:13:22.90,0:13:25.46,Default,,0,0,0,,но это необходимо для достижения высшей цели.
+Dialogue: 5,0:13:25.46,0:13:28.80,Default,,0,0,0,,А теперь я должен забрать твою тягу.
+Dialogue: 5,0:13:28.80,0:13:30.32,Default,,0,0,0,,Мою тягу?
+Dialogue: 5,0:13:30.88,0:13:33.40,Default,,0,0,0,,Силу твоих хвостиков!
+Dialogue: 5,0:13:33.40,0:13:36.44,Default,,0,0,0,,Явись же, священный круг.
+Dialogue: 5,0:13:46.28,0:13:47.47,Default,,0,0,0,,Глава!
+Dialogue: 5,0:13:50.86,0:13:52.26,Default,,0,0,0,,Не прощу!
+Dialogue: 5,0:13:52.26,0:13:54.02,Default,,0,0,0,,Как они посмели уничтожить
+Dialogue: 5,0:13:54.02,0:13:56.97,Default,,0,0,0,,прекрасные хвостики главы?!
+Dialogue: 5,0:13:57.78,0:13:59.44,Default,,0,0,0,,Говори, Туар.
+Dialogue: 5,0:13:59.44,0:14:01.30,Default,,0,0,0,,Чего ты от меня ждёшь?
+Dialogue: 5,0:14:01.30,0:14:04.58,Default,,0,0,0,,Ты же неспроста нас сюда перенесла!
+Dialogue: 5,0:14:04.58,0:14:06.90,Default,,0,0,0,,Наконец-то и до дела дошло!
+Dialogue: 5,0:14:06.90,0:14:09.99,Default,,0,0,0,,Используй браслет для превращения!
+Dialogue: 5,0:14:09.99,0:14:11.56,Default,,0,0,0,,Превращения?
+Dialogue: 5,0:14:11.56,0:14:16.62,Default,,0,0,0,,Этот браслет создаст боевое облаченье, которое сделает тебя намного сильнее.
+Dialogue: 5,0:14:16.62,0:14:21.54,Default,,0,0,0,,В нём ты без проблем их всех победишь!
+Dialogue: 5,0:14:21.54,0:14:22.64,Default,,0,0,0,,Правда?
+Dialogue: 5,0:14:22.64,0:14:24.52,Default,,0,0,0,,Погоди-ка!
+Dialogue: 5,0:14:24.52,0:14:26.06,Default,,0,0,0,,Он сможет превратиться?
+Dialogue: 5,0:14:26.06,0:14:30.01,Default,,0,0,0,,Пусть так, но почему вы предлагаете ему лезть в пекло?
+Dialogue: 5,0:14:30.01,0:14:31.54,Default,,0,0,0,,Не тупи!
+Dialogue: 5,0:14:31.54,0:14:33.72,Default,,0,0,0,,Они охотятся за хвостиками!
+Dialogue: 5,0:14:33.72,0:14:35.98,Default,,0,0,0,,Я не могу стоять в стороне!
+Dialogue: 5,0:14:35.98,0:14:39.38,Default,,0,0,0,,Содзи, дайте команду на превращение.
+Dialogue: 5,0:14:39.38,0:14:40.94,Default,,0,0,0,,Браслет сам его выполнит.
+Dialogue: 5,0:14:41.98,0:14:42.98,Default,,0,0,0,,Понял.
+Dialogue: 5,0:15:02.00,0:15:04.08,Default,,0,0,0,,Ничего себе хвостики!
+Dialogue: 5,0:15:04.08,0:15:05.84,Default,,0,0,0,,Что у меня с голосом?!
+Dialogue: 5,0:15:05.84,0:15:08.59,Default,,0,0,0,,Это что — я?!
+Dialogue: 5,0:15:08.59,0:15:11.06,Default,,0,0,0,,Эй, это как понимать?!
+Dialogue: 5,0:15:11.06,0:15:15.76,Default,,0,0,0,,Это единственное эффективное против них оружие.
+Dialogue: 5,0:15:15.76,0:15:16.97,Default,,0,0,0,,Боехвост!
+Dialogue: 5,0:15:17.42,0:15:21.39,Default,,0,0,0,,Я спрашиваю, какого чёрта он девочкой стал?!
+Dialogue: 5,0:15:22.30,0:15:23.18,Default,,0,0,0,,Айка!
+Dialogue: 5,0:15:23.18,0:15:28.34,Default,,0,0,0,,Всё имеет свою цену. Великая сила и стоит немало!
+Dialogue: 5,0:15:28.34,0:15:31.50,Default,,0,0,0,,А почему цена именно такая...
+Dialogue: 5,0:15:31.50,0:15:34.11,Default,,0,0,0,,пусть это побудет секретом.
 Dialogue: 5,0:15:34.28,0:15:35.07,Default,,0,0,0,,Чего?!
-Dialogue: 5,0:15:35.46,0:15:39.56,Default,,0,0,0,,Тебя разве не волнует, что у Содзи так много противников?{Aren't you worried about Souji fighting such a fearsome foe?}
-Dialogue: 5,0:15:39.56,0:15:40.87,Default,,0,0,0,,А, точно!{Right!}
-Dialogue: 5,0:15:40.87,0:15:43.38,Default,,0,0,0,,Невероятная элемера!{What absurd Elemera!}{elemera is the name for someones attribute... basically their fetish}
-Dialogue: 5,0:15:43.88,0:15:47.71,Default,,0,0,0,,Несомненно, это сильнейшие хвостики планеты!{Without a doubt, those must be the strongest twintails on this planet.}
-Dialogue: 5,0:15:47.71,0:15:50.80,Default,,0,0,0,,Всем отрядам, разберитесь с ней!{See to her, my underlings!}
-Dialogue: 5,0:15:52.28,0:15:54.26,Default,,0,0,0,,Ё, мне всех не победить!{I-I can't take that many!}
-Dialogue: 5,0:15:57.14,0:15:59.96,Default,,0,0,0,,И что мне делать, Туар?!{What should I do, Thuearle?}
-Dialogue: 5,0:16:12.70,0:16:14.84,Default,,0,0,0,,Она убила трёх венцоидов за раз?{You destroyed three Ultiroids in the blink of an eye!}
-Dialogue: 5,0:16:14.84,0:16:16.99,Default,,0,0,0,,Чудовищная сила!{Who are you, to wield such awesome power?!}
-Dialogue: 5,0:16:17.03,0:16:19.39,Default,,0,0,0,,Ты кто такая?!{Who are you, to wield such awesome power?!}
-Dialogue: 5,0:16:20.75,0:16:22.01,Default,,0,0,0,,Ну же, давай!{Go on!}
-Dialogue: 5,0:16:22.01,0:16:24.06,Default,,0,0,0,,Самое время круто представиться!{This is your chance to make a stylish entrance!}
-Dialogue: 5,0:16:24.06,0:16:25.53,Default,,0,0,0,,Понял.{Right.}
-Dialogue: 5,0:16:25.53,0:16:26.58,Default,,0,0,0,,Отлично.{Okay.}
-Dialogue: 5,0:16:26.58,0:16:28.78,Default,,0,0,0,,Слушай внимательно, чудище!{Hearken my words, monster!}
-Dialogue: 5,0:16:28.78,0:16:29.96,Default,,0,0,0,,Имя моё...{I am—}
-Dialogue: 5,0:16:31.86,0:16:33.21,Default,,0,0,0,,А имя-то какое?{Wait, who am I?}
-Dialogue: 5,0:16:34.22,0:16:36.01,Default,,0,0,0,,Без второсортных шуток никак?{This isn't a comedy routine!}
-Dialogue: 5,0:16:37.12,0:16:38.97,Default,,0,0,0,,А какое захочешь.{I'll leave your name to you.}
-Dialogue: 5,0:16:38.97,0:16:40.89,Default,,0,0,0,,Ладно.{Okay.}
-Dialogue: 5,0:16:40.89,0:16:42.24,Default,,0,0,0,,Тогда...{Hm...}
-Dialogue: 5,0:16:43.98,0:16:45.98,Default,,0,0,0,,Краснохвостка!{I'm Tail Red!}
-Dialogue: 5,0:16:54.48,0:16:55.15,Default,,0,0,0,,О-ой.{Cripes.}
-Dialogue: 5,0:16:56.64,0:16:58.45,Default,,0,0,0,,Ну и зачем мне такой прыжок?{What kind of a jump was that?}
-Dialogue: 5,0:16:58.45,0:17:00.12,Default,,0,0,0,,Сосредоточься.{Please focus.}
-Dialogue: 5,0:17:00.12,0:17:02.66,Default,,0,0,0,,Боехвост подчиняется твоим желаниям.{The Tailgear is the product of your mind.}
-Dialogue: 5,0:17:02.66,0:17:04.29,Default,,0,0,0,,Чётко представляй желаемое!{You should have perfect control!}
-Dialogue: 5,0:17:05.29,0:17:07.21,Default,,0,0,0,,Мои желаниям...{My mind...}
-Dialogue: 5,0:17:08.04,0:17:09.35,Default,,0,0,0,,Ладно, вреж...{Okay. Let's—}
-Dialogue: 5,0:17:11.41,0:17:12.44,Default,,0,0,0,,Слишком близко!{Get away from me!}
-Dialogue: 5,0:17:12.44,0:17:14.80,Default,,0,0,0,,Ты так сильна и красива...{So beautiful and strong...}
-Dialogue: 5,0:17:14.80,0:17:17.41,Default,,0,0,0,,Не подержишь недолго?{Would you hold this for me?}
-Dialogue: 5,0:17:18.66,0:17:21.01,Default,,0,0,0,,Больной!{You creep!}
-Dialogue: 5,0:17:28.35,0:17:31.46,Default,,0,0,0,,Есть у меня хоть какое-то оружие?{I need pepper spray or something!}
-Dialogue: 5,0:17:31.46,0:17:32.48,Default,,0,0,0,,Содзи!{Souji!}
-Dialogue: 5,0:17:33.06,0:17:36.61,Default,,0,0,0,,Коснувшись ленточек, ты можешь превратить их в оружие!{You can materialize a weapon if you touch those ribbon devices and will it!}
-Dialogue: 5,0:17:37.84,0:17:39.16,Default,,0,0,0,,Ленточек?{Ribbons?}
-Dialogue: 5,0:17:46.86,0:17:49.50,Default,,0,0,0,,Пламенный клинок!{Blazer Blade!}
-Dialogue: 5,0:18:00.58,0:18:01.68,Default,,0,0,0,,Что?{What?}
-Dialogue: 5,0:18:16.40,0:18:18.65,Default,,0,0,0,,Неплохо.{You're strong.}
-Dialogue: 5,0:18:18.65,0:18:20.40,Default,,0,0,0,,Но я не проиграю.{But I will not give up.}
-Dialogue: 5,0:18:20.81,0:18:24.91,Default,,0,0,0,,Пока ты не подержишь их всех — не отступлю!{Not until you hold all these for me!}
-Dialogue: 5,0:18:29.16,0:18:32.90,Default,,0,0,0,,Почему он жив? Удар Содзи был чертовски силён!{How did he survive?\N That attack was so powerful!}
-Dialogue: 5,0:18:32.90,0:18:34.29,Default,,0,0,0,,У него железная воля!{What tenacity!}
-Dialogue: 5,0:18:34.29,0:18:37.28,Default,,0,0,0,,А теперь, узри мою сильнейшую атаку!{Now, witness my ultimate ability!}
-Dialogue: 5,0:18:37.28,0:18:38.32,Default,,0,0,0,,Секретный приём:{Secret technique:}
-Dialogue: 5,0:18:38.32,0:18:46.70,Default,,0,0,0,,«Шок, когда девочка державшая куклу почувствовала ответное пожатие... Вспышка молнии!»{Lightning-spark-like-when-the-doll-\Na-girl-held-holds-her-in-turn!}
-Dialogue: 5,0:18:59.49,0:19:02.74,Default,,0,0,0,,Башня света!{Aura Pillar!}
-Dialogue: 5,0:19:05.72,0:19:08.49,Default,,0,0,0,,Ослепла? Вот он я!{Are you blind? I'm over here!}
-Dialogue: 5,0:19:11.52,0:19:14.00,Default,,0,0,0,,Что такое?{What is this?}
-Dialogue: 5,0:19:14.00,0:19:16.50,Default,,0,0,0,,Д-даже шевельнуться не могу!{I-I can't move!}
-Dialogue: 5,0:19:17.95,0:19:19.73,Default,,0,0,0,,Снять ограничитель!{Brake Release!}
-Dialogue: 5,0:19:29.15,0:19:33.60,Default,,0,0,0,,Великое пламя!{Grand Blazer!}
-Dialogue: 5,0:19:38.86,0:19:41.36,Default,,0,0,0,,П-прими мою благодарность.{Y-You have my thanks.}
-Dialogue: 5,0:19:41.81,0:19:48.37,Default,,0,0,0,,Мне удалось узреть истинную силу и красоту двойных хвостиков.{Finally, I have learned the strength and beauty of true twintails.}
-Dialogue: 5,0:19:49.15,0:19:50.37,Default,,0,0,0,,Последняя просьба.{Now, hear my last request.}
-Dialogue: 5,0:19:50.37,0:19:54.12,Default,,0,0,0,,Позволь мне напоследок хоть прикоснуться к твоим хвостикам!{Let me fondle your twintails!}
-Dialogue: 5,0:19:54.12,0:19:56.38,Default,,0,0,0,,Н-не надо!{E-Eww!}
-Dialogue: 5,0:19:56.98,0:20:00.80,Default,,0,0,0,,Прелесть какая!{So cute!}
-Dialogue: 5,0:20:13.52,0:20:15.18,Default,,0,0,0,,Что это?{What's this?}
-Dialogue: 5,0:20:32.35,0:20:34.29,Default,,0,0,0,,А? Я...{Huh? I...}
-Dialogue: 5,0:20:34.29,0:20:35.75,Default,,0,0,0,,Я так испугалась!{It was so scary.}
-Dialogue: 5,0:20:35.75,0:20:37.33,Default,,0,0,0,,Всё, уже нечего бояться.{You're safe now.}
-Dialogue: 5,0:20:41.29,0:20:42.27,Default,,0,0,0,,Можно?{Hey!}
-Dialogue: 5,0:20:43.34,0:20:46.68,Default,,0,0,0,,Благодарю за спасение.{Thank you for rescuing me.}
-Dialogue: 5,0:20:47.86,0:20:49.04,Default,,0,0,0,,Да я не...{Rescuing chicks isn't—}
-Dialogue: 5,0:20:49.04,0:20:52.43,Default,,0,0,0,,То есть, я просто мимо проходила.{I mean, I was just passing by.}
-Dialogue: 5,0:20:52.43,0:20:56.26,Default,,0,0,0,,Ты так сражалась, что я глаз отвести не могла!{Watching you fight was wonderful!}
-Dialogue: 5,0:20:56.26,0:21:00.18,Default,,0,0,0,,Ты хоть и маленькая, но такая сильная и храбрая!{You were so brave and strong for one so small.}
-Dialogue: 5,0:21:00.18,0:21:01.94,Default,,0,0,0,,Я поражена!{It really moved me!}
-Dialogue: 5,0:21:02.89,0:21:04.58,Default,,0,0,0,,Даже не знаю, что и ответить...{I'm not sure what to say.}
-Dialogue: 5,0:21:04.58,0:21:06.58,Default,,0,0,0,,Кто же ты?{Who are you?}
-Dialogue: 5,0:21:06.58,0:21:08.15,Default,,0,0,0,,Ну, э...{Um...}
-Dialogue: 5,0:21:08.15,0:21:11.64,Default,,0,0,0,,Наверное, можно и супергероем назваться.{A superhero, I guess?}
-Dialogue: 5,0:21:13.04,0:21:15.58,Default,,0,0,0,,Мы ещё встретимся?{Will we meet again?}
-Dialogue: 5,0:21:17.92,0:21:19.01,Default,,0,0,0,,Да.{Of course.}
-Dialogue: 5,0:21:19.78,0:21:22.84,Default,,0,0,0,,Пока ты любишь хвостики и не такое возможно!{If you love twintails, anything is possible!}
-Dialogue: 5,0:21:25.52,0:21:27.59,Default,,0,0,0,,Госпожа!{Milady!}
-Dialogue: 5,0:21:28.72,0:21:30.18,Default,,0,0,0,,Госпожа!{Milady!}
-Dialogue: 5,0:21:32.72,0:21:35.66,Default,,0,0,0,,Госпожа, вы не пострадали?{Milady, are you unhurt?}
-Dialogue: 5,0:21:35.66,0:21:37.38,Default,,0,0,0,,Да, всё хорошо.{Yes, I'm fine.}
-Dialogue: 5,0:21:38.44,0:21:40.10,Default,,0,0,0,,А звать-то тебя как?{Hey, what's your name?}
-Dialogue: 5,0:21:41.01,0:21:42.21,Default,,0,0,0,,Краснохвостка я!{Tail Red!}
-Dialogue: 5,0:21:42.21,0:21:43.15,Default,,0,0,0,,Пока!{Bye!}
-Dialogue: 5,0:21:45.58,0:21:47.41,Default,,0,0,0,,Краснохвостка...{Tail Red...}
-Dialogue: 5,0:21:54.24,0:21:55.96,Default,,0,0,0,,Внемлите!{Hearken!}
-Dialogue: 5,0:21:56.66,0:22:00.66,Default,,0,0,0,,Эти хвостики — то самое сокровище, что мы всегда искали!{That is the pinnacle of twintaildom that we have sought!}
-Dialogue: 5,0:22:00.66,0:22:02.25,Default,,0,0,0,,Можете возрадоваться!{Brace your hearts!}
+Dialogue: 5,0:15:35.46,0:15:39.56,Default,,0,0,0,,Тебя разве не волнует, что у Содзи так много противников?
+Dialogue: 5,0:15:39.56,0:15:40.87,Default,,0,0,0,,А, точно!
+Dialogue: 5,0:15:40.87,0:15:43.38,Default,,0,0,0,,Невероятная элемера!{What absurd Elemera!}
+Dialogue: 5,0:15:43.88,0:15:47.71,Default,,0,0,0,,Несомненно, это сильнейшие хвостики планеты!
+Dialogue: 5,0:15:47.71,0:15:50.80,Default,,0,0,0,,Всем отрядам, разберитесь с ней!
+Dialogue: 5,0:15:52.28,0:15:54.26,Default,,0,0,0,,Ё, мне всех не победить!
+Dialogue: 5,0:15:57.14,0:15:59.96,Default,,0,0,0,,И что мне делать, Туар?!
+Dialogue: 5,0:16:12.70,0:16:14.84,Default,,0,0,0,,Она убила трёх венцоидов за раз?
+Dialogue: 5,0:16:14.84,0:16:16.99,Default,,0,0,0,,Чудовищная сила!
+Dialogue: 5,0:16:17.03,0:16:19.39,Default,,0,0,0,,Ты кто такая?!
+Dialogue: 5,0:16:20.75,0:16:22.01,Default,,0,0,0,,Ну же, давай!
+Dialogue: 5,0:16:22.01,0:16:24.06,Default,,0,0,0,,Самое время круто представиться!
+Dialogue: 5,0:16:24.06,0:16:25.53,Default,,0,0,0,,Понял.
+Dialogue: 5,0:16:25.53,0:16:26.58,Default,,0,0,0,,Отлично.
+Dialogue: 5,0:16:26.58,0:16:28.78,Default,,0,0,0,,Слушай внимательно, чудище!
+Dialogue: 5,0:16:28.78,0:16:29.96,Default,,0,0,0,,Имя моё...
+Dialogue: 5,0:16:31.86,0:16:33.21,Default,,0,0,0,,А имя-то какое?
+Dialogue: 5,0:16:34.22,0:16:36.01,Default,,0,0,0,,Без второсортных шуток никак?
+Dialogue: 5,0:16:37.12,0:16:38.97,Default,,0,0,0,,А какое захочешь.
+Dialogue: 5,0:16:38.97,0:16:40.89,Default,,0,0,0,,Ладно.
+Dialogue: 5,0:16:40.89,0:16:42.24,Default,,0,0,0,,Тогда...
+Dialogue: 5,0:16:43.98,0:16:45.98,Default,,0,0,0,,Краснохвостка!
+Dialogue: 5,0:16:54.48,0:16:55.15,Default,,0,0,0,,О-ой.
+Dialogue: 5,0:16:56.64,0:16:58.45,Default,,0,0,0,,Ну и зачем мне такой прыжок?
+Dialogue: 5,0:16:58.45,0:17:00.12,Default,,0,0,0,,Сосредоточься.
+Dialogue: 5,0:17:00.12,0:17:02.66,Default,,0,0,0,,Боехвост подчиняется твоим желаниям.
+Dialogue: 5,0:17:02.66,0:17:04.29,Default,,0,0,0,,Чётко представляй желаемое!
+Dialogue: 5,0:17:05.29,0:17:07.21,Default,,0,0,0,,Мои желаниям...
+Dialogue: 5,0:17:08.04,0:17:09.35,Default,,0,0,0,,Ладно, вреж...
+Dialogue: 5,0:17:11.41,0:17:12.44,Default,,0,0,0,,Слишком близко!
+Dialogue: 5,0:17:12.44,0:17:14.80,Default,,0,0,0,,Ты так сильна и красива...
+Dialogue: 5,0:17:14.80,0:17:17.41,Default,,0,0,0,,Не подержишь недолго?
+Dialogue: 5,0:17:18.66,0:17:21.01,Default,,0,0,0,,Больной!
+Dialogue: 5,0:17:28.35,0:17:31.46,Default,,0,0,0,,Есть у меня хоть какое-то оружие?
+Dialogue: 5,0:17:31.46,0:17:32.48,Default,,0,0,0,,Содзи!
+Dialogue: 5,0:17:33.06,0:17:36.61,Default,,0,0,0,,Коснувшись ленточек, ты можешь превратить их в оружие!
+Dialogue: 5,0:17:37.84,0:17:39.16,Default,,0,0,0,,Ленточек?
+Dialogue: 5,0:17:46.86,0:17:49.50,Default,,0,0,0,,Пламенный клинок!
+Dialogue: 5,0:18:00.58,0:18:01.68,Default,,0,0,0,,Что?
+Dialogue: 5,0:18:16.40,0:18:18.65,Default,,0,0,0,,Неплохо.
+Dialogue: 5,0:18:18.65,0:18:20.40,Default,,0,0,0,,Но я не проиграю.
+Dialogue: 5,0:18:20.81,0:18:24.91,Default,,0,0,0,,Пока ты не подержишь их всех — не отступлю!
+Dialogue: 5,0:18:29.16,0:18:32.90,Default,,0,0,0,,Почему он жив? Удар Содзи был чертовски силён!
+Dialogue: 5,0:18:32.90,0:18:34.29,Default,,0,0,0,,У него железная воля!
+Dialogue: 5,0:18:34.29,0:18:37.28,Default,,0,0,0,,А теперь, узри мою сильнейшую атаку!
+Dialogue: 5,0:18:37.28,0:18:38.32,Default,,0,0,0,,Секретный приём:
+Dialogue: 5,0:18:38.32,0:18:46.70,Default,,0,0,0,,«Шок, когда девочка державшая куклу почувствовала ответное пожатие... Вспышка молнии!»
+Dialogue: 5,0:18:59.49,0:19:02.74,Default,,0,0,0,,Башня света!
+Dialogue: 5,0:19:05.72,0:19:08.49,Default,,0,0,0,,Ослепла? Вот он я!
+Dialogue: 5,0:19:11.52,0:19:14.00,Default,,0,0,0,,Что такое?
+Dialogue: 5,0:19:14.00,0:19:16.50,Default,,0,0,0,,Д-даже шевельнуться не могу!
+Dialogue: 5,0:19:17.95,0:19:19.73,Default,,0,0,0,,Снять ограничитель!
+Dialogue: 5,0:19:29.15,0:19:33.60,Default,,0,0,0,,Великое пламя!
+Dialogue: 5,0:19:38.86,0:19:41.36,Default,,0,0,0,,П-прими мою благодарность.
+Dialogue: 5,0:19:41.81,0:19:48.37,Default,,0,0,0,,Мне удалось узреть истинную силу и красоту двойных хвостиков.
+Dialogue: 5,0:19:49.15,0:19:50.37,Default,,0,0,0,,Последняя просьба.
+Dialogue: 5,0:19:50.37,0:19:54.12,Default,,0,0,0,,Позволь мне напоследок хоть прикоснуться к твоим хвостикам!
+Dialogue: 5,0:19:54.12,0:19:56.38,Default,,0,0,0,,Н-не надо!
+Dialogue: 5,0:19:56.98,0:20:00.80,Default,,0,0,0,,Прелесть какая!
+Dialogue: 5,0:20:13.52,0:20:15.18,Default,,0,0,0,,Что это?
+Dialogue: 5,0:20:32.35,0:20:34.29,Default,,0,0,0,,А? Я...
+Dialogue: 5,0:20:34.29,0:20:35.75,Default,,0,0,0,,Я так испугалась!
+Dialogue: 5,0:20:35.75,0:20:37.33,Default,,0,0,0,,Всё, уже нечего бояться.
+Dialogue: 5,0:20:41.29,0:20:42.27,Default,,0,0,0,,Можно?
+Dialogue: 5,0:20:43.34,0:20:46.68,Default,,0,0,0,,Благодарю за спасение.
+Dialogue: 5,0:20:47.86,0:20:49.04,Default,,0,0,0,,Да я не...
+Dialogue: 5,0:20:49.04,0:20:52.43,Default,,0,0,0,,То есть, я просто мимо проходила.
+Dialogue: 5,0:20:52.43,0:20:56.26,Default,,0,0,0,,Ты так сражалась, что я глаз отвести не могла!
+Dialogue: 5,0:20:56.26,0:21:00.18,Default,,0,0,0,,Ты хоть и маленькая, но такая сильная и храбрая!
+Dialogue: 5,0:21:00.18,0:21:01.94,Default,,0,0,0,,Я поражена!
+Dialogue: 5,0:21:02.89,0:21:04.58,Default,,0,0,0,,Даже не знаю, что и ответить...
+Dialogue: 5,0:21:04.58,0:21:06.58,Default,,0,0,0,,Кто же ты?
+Dialogue: 5,0:21:06.58,0:21:08.15,Default,,0,0,0,,Ну, э...
+Dialogue: 5,0:21:08.15,0:21:11.64,Default,,0,0,0,,Наверное, можно и супергероем назваться.
+Dialogue: 5,0:21:13.04,0:21:15.58,Default,,0,0,0,,Мы ещё встретимся?
+Dialogue: 5,0:21:17.92,0:21:19.01,Default,,0,0,0,,Да.
+Dialogue: 5,0:21:19.78,0:21:22.84,Default,,0,0,0,,Пока ты любишь хвостики и не такое возможно!
+Dialogue: 5,0:21:25.52,0:21:27.59,Default,,0,0,0,,Госпожа!
+Dialogue: 5,0:21:28.72,0:21:30.18,Default,,0,0,0,,Госпожа!
+Dialogue: 5,0:21:32.72,0:21:35.66,Default,,0,0,0,,Госпожа, вы не пострадали?
+Dialogue: 5,0:21:35.66,0:21:37.38,Default,,0,0,0,,Да, всё хорошо.
+Dialogue: 5,0:21:38.44,0:21:40.10,Default,,0,0,0,,А звать-то тебя как?
+Dialogue: 5,0:21:41.01,0:21:42.21,Default,,0,0,0,,Краснохвостка я!
+Dialogue: 5,0:21:42.21,0:21:43.15,Default,,0,0,0,,Пока!
+Dialogue: 5,0:21:45.58,0:21:47.41,Default,,0,0,0,,Краснохвостка...
+Dialogue: 5,0:21:54.24,0:21:55.96,Default,,0,0,0,,Внемлите!
+Dialogue: 5,0:21:56.66,0:22:00.66,Default,,0,0,0,,Эти хвостики — то самое сокровище, что мы всегда искали!
+Dialogue: 5,0:22:00.66,0:22:02.25,Default,,0,0,0,,Можете возрадоваться!
 Dialogue: 15,0:22:11.01,0:22:11.01,ED,,0,0,0,,{ED}
 Dialogue: 0,0:22:12.85,0:22:19.56,ED,,0,0,0,,{\fad(200,200)\blur2}Доверь ты хвостикам моим свои надежды и мечты,
 Dialogue: 0,0:22:19.56,0:22:25.73,ED,,0,0,0,,{\fad(200,200)\blur2}как клялись ветру пляшущему в волосах.
@@ -690,20 +690,20 @@ Dialogue: 0,0:23:13.49,0:23:20.04,ED,,0,0,0,,{\fad(200,200)\blur2}С любов�
 Dialogue: 0,0:23:20.04,0:23:22.50,ED,,0,0,0,,{\fad(200,200)\blur2}не дрогнем ни за что
 Dialogue: 0,0:23:22.50,0:23:25.09,ED,,0,0,0,,{\fad(200,200)\blur2}и вместе победим,
 Dialogue: 0,0:23:25.09,0:23:31.88,ED,,0,0,0,,{\fad(200,200)\blur2}как клялись ветру пляшущему в волосах.
-Dialogue: 5,0:23:40.97,0:23:41.02,Default,chapter,0,0,0,,{Preview}
-Dialogue: 5,0:23:42.46,0:23:44.48,Default,,0,0,0,,Ну, и кто они такие — элемерианцы?{So, what exactly are those Elemerians?}
-Dialogue: 5,0:23:44.48,0:23:45.94,Default,,0,0,0,,Не обычные маньяки?{Aren't they just regular old creeps?}
-Dialogue: 5,0:23:45.94,0:23:47.69,Default,,0,0,0,,Ты их недооцениваешь.{You shouldn't underestimate them.}
-Dialogue: 5,0:23:47.69,0:23:51.86,Default,,0,0,0,,Они опасные захватчики покорившие бессчётное множество миров{They're fearsome invaders who have conquered countless worlds,}
-Dialogue: 5,0:23:51.86,0:23:55.72,Default,,0,0,0,,по приказу объединяющей их организации — Венцесил.{all in the name of Ultimaguil.}
-Dialogue: 5,0:23:55.72,0:23:56.70,Default,,0,0,0,,Вот как.{I see.}
-Dialogue: 5,0:23:56.70,0:24:00.29,Default,,0,0,0,,То есть, все, кто входит в Венцесил — элемерианцы?{So the general term for all those in Ultimaguil is Elemerian?}
-Dialogue: 5,0:24:00.29,0:24:01.06,Default,,0,0,0,,Да.{Yes.}
-Dialogue: 5,0:24:01.06,0:24:06.38,Default,,0,0,0,,Содзи, прошу, не сдерживай в схватке мощь своих членов!{Souji, please plunge your glorious thickness into battle next time too!}
-Dialogue: 5,0:24:06.38,0:24:07.29,Default,,0,0,0,,Хватит!{Shut up!}
+Dialogue: 5,0:23:40.97,0:23:41.02,Default,chapter,0,0,0,,
+Dialogue: 5,0:23:42.46,0:23:44.48,Default,,0,0,0,,Ну, и кто они такие — элемерианцы?
+Dialogue: 5,0:23:44.48,0:23:45.94,Default,,0,0,0,,Не обычные маньяки?
+Dialogue: 5,0:23:45.94,0:23:47.69,Default,,0,0,0,,Ты их недооцениваешь.
+Dialogue: 5,0:23:47.69,0:23:51.86,Default,,0,0,0,,Они опасные захватчики покорившие бессчётное множество миров
+Dialogue: 5,0:23:51.86,0:23:55.72,Default,,0,0,0,,по приказу объединяющей их организации — Венцесил.
+Dialogue: 5,0:23:55.72,0:23:56.70,Default,,0,0,0,,Вот как.
+Dialogue: 5,0:23:56.70,0:24:00.29,Default,,0,0,0,,То есть, все, кто входит в Венцесил — элемерианцы?
+Dialogue: 5,0:24:00.29,0:24:01.06,Default,,0,0,0,,Да.
+Dialogue: 5,0:24:01.06,0:24:06.38,Default,,0,0,0,,Содзи, прошу, не сдерживай в схватке мощь своих членов!
+Dialogue: 5,0:24:06.38,0:24:07.29,Default,,0,0,0,,Хватит!
 Dialogue: 0,0:24:07.06,0:24:11.60,signs,,0,0,0,done,{\b1\fscx170\fscy170\blur0.4\fnCyrillicChancellor\fs80\pos(340,466)}Тайна\Nхвостиков?!
-Dialogue: 5,0:24:07.29,0:24:07.98,Default,,0,0,0,,Скоро:{Next time:}
+Dialogue: 5,0:24:07.29,0:24:07.98,Default,,0,0,0,,Скоро:
 Dialogue: 5,0:24:07.98,0:24:09.41,Default,,0,0,0,,Тайна хвостиков?!
-Dialogue: 5,0:24:09.41,0:24:10.58,Default,,0,0,0,,Хвостики мне!{Tail On!}
+Dialogue: 5,0:24:09.41,0:24:10.58,Default,,0,0,0,,Хвостики мне!
 Dialogue: 0,0:24:10.58,0:24:12.58,Default,,0,0,0,,
 
