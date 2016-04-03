@@ -604,9 +604,9 @@ Dialogue: 5,0:23:54.68,0:23:55.66,Default,,0,0,0,,Вот как.{I see.}
 Dialogue: 5,0:23:55.66,0:23:59.25,Default,,0,0,0,,То есть все, кто входит в Венцесил, — элемерианцы?{So the general term for all those in Ultimaguil is Elemerian?}
 Dialogue: 5,0:23:59.25,0:24:00.02,Default,,0,0,0,,Да.{Yes.}
 Dialogue: 5,0:24:00.02,0:24:05.34,Default,,0,0,0,,Содзи, прошу, в следующий раз хорошенько засадите свой большой меч!{Souji, please plunge your glorious thickness into battle next time too!}
-Dialogue: 0,0:24:05.34,0:24:09.88,signs,,0,0,0,done,{\b1\fscx170\fscy170\blur0.4\fnCyrillicChancellor\fs80\pos(340,466)}Тайна\Nхвостиков?!
+Dialogue: 0,0:24:05.34,0:24:09.88,signs,,0,0,0,done,{\b1\fscx170\fscy170\blur0.4\fnCyrillicChancellor\fs80\pos(340,466)}Загадочные\Nхвостики?!
 Dialogue: 5,0:24:05.34,0:24:06.25,Default,,0,0,0,,Хватит!{Shut up!}
 Dialogue: 5,0:24:06.25,0:24:06.94,Default,,0,0,0,,Скоро:{Next time:}
-Dialogue: 5,0:24:06.94,0:24:08.37,Default,,0,0,0,,Тайна хвостиков?!
+Dialogue: 5,0:24:06.94,0:24:08.37,Default,,0,0,0,,Загадочные хвостики?!
 Dialogue: 5,0:24:08.37,0:24:09.54,Default,,0,0,0,,Хвостики мне!{Tail On!}
 Dialogue: 0,0:24:09.54,0:24:11.54,Default,,0,0,0,,
