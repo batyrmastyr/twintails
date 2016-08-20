@@ -367,9 +367,9 @@ Dialogue: 0,0:03:20.80,0:03:22.39,OP,,0,0,0,,{\fad(0,200)\blur3\3c&HAA8BFB&\4c&H
 Dialogue: 0,0:03:22.39,0:03:27.48,OP,,0,0,0,,{\fad(200,200)\blur3\3c&HAA8BFB&\4c&HF9B4E1&}{Come to my SOS signal, hero\N}Лови мой СОС-сигнал - меня, герой,
 Dialogue: 0,0:03:26.79,0:03:27.48,OP,,0,0,0,,{\an7\fad(100,100)\blur3\3c&HAA8BFB&\4c&HF9B4E1&}{Rescue me\N}спасай!
 Dialogue: 15,0:03:42.95,0:03:42.99,Default,chapter,0,0,0,,{Part A}
-Dialogue: 2,0:03:45.32,0:03:49.79,signs,,0,0,0,done,{\fad(480,480)\b1\fscx80\fscy80\q2\bord0\blur0.4\fax-0.2\c&HFFFFFF&\pos(821.111,600.666)}Эпизод 3: Лазурные волны! Синехвостка!{Episode 3: Cerulean Storm Waves! Tail Blue!}
-Dialogue: 1,0:03:45.32,0:03:49.79,signs,,0,0,0,done,{\fad(480,480)\b1\fscx80\fscy80\q2\bord1.4\blur0.5\c&H180706&\1a&HFF&\fax-0.2\t(435,480,\1a&H00&)\t(3980,4025,\1a&HFF&)\pos(821.111,600.666)}Эпизод 3: Лазурные волны! Синехвостка!{Episode 3: Cerulean Storm Waves! Tail Blue!}
-Dialogue: 0,0:03:45.32,0:03:49.79,signs,,0,0,0,done,{\fad(480,480)\b1\fscx80\fscy80\q2\bord2\blur1.6\alpha&H80&\1a&HFF&\fax-0.2\t(435,480,\1a&H00&)\t(3980,4025,\1a&HFF&)\pos(821.111,600.666)}Эпизод 3: Лазурные волны! Синехвостка!{Episode 3: Cerulean Storm Waves! Tail Blue!}
+Dialogue: 2,0:03:45.32,0:03:49.79,signs,,0,0,0,done,{\fad(480,480)\b1\fscx80\fscy80\q2\bord0\blur0.4\fax-0.2\c&HFFFFFF&\pos(821.111,600.666)}Эпизод 3: Лазурный шторм! Синехвостка!{Episode 3: Cerulean Storm Waves! Tail Blue!}
+Dialogue: 1,0:03:45.32,0:03:49.79,signs,,0,0,0,done,{\fad(480,480)\b1\fscx80\fscy80\q2\bord1.4\blur0.5\c&H180706&\1a&HFF&\fax-0.2\t(435,480,\1a&H00&)\t(3980,4025,\1a&HFF&)\pos(821.111,600.666)}Эпизод 3: Лазурный шторм! Синехвостка!{Episode 3: Cerulean Storm Waves! Tail Blue!}
+Dialogue: 0,0:03:45.32,0:03:49.79,signs,,0,0,0,done,{\fad(480,480)\b1\fscx80\fscy80\q2\bord2\blur1.6\alpha&H80&\1a&HFF&\fax-0.2\t(435,480,\1a&H00&)\t(3980,4025,\1a&HFF&)\pos(821.111,600.666)}Эпизод 3: Лазурный шторм! Синехвостка!{Episode 3: Cerulean Storm Waves! Tail Blue!}
 Dialogue: 10,0:03:45.70,0:03:51.09,DefaultTop,,0,0,0,,{\i1}Вскоре я поумерил оптимизм.{Soon after, I started having second thoughts.}
 Dialogue: 10,0:03:51.09,0:03:56.21,DefaultTop,,0,0,0,,{\i1}Элемерианцы каждый день отправляли монстров во все уголки мира.{The Elemerians kept sending monsters-of-the-day to various places throughout the world.}
 Dialogue: 10,0:03:56.21,0:04:00.92,DefaultTop,,0,0,0,,{\i1}Краснохвостка становилась популярнее день ото дня.{Tail Red became a worldwide cultural phenomenon of ever-growing magnitude.}
