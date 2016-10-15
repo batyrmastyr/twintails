@@ -3095,6 +3095,6 @@ Dialogue: 10,0:24:02.96,0:24:04.21,Default,,0,0,0,,Последняя фраза
 Dialogue: 10,0:24:04.21,0:24:05.12,Default,,0,0,5,,Скоро:{Next time:}
 Dialogue: 0,0:24:04.21,0:24:10.05,signs,,0,0,0,done,{\fnCyrillicChancellor\b1\bord0\fscx170\fscy170\blur0.5\pos(786.615,451)}Снять ограничитель!
 Dialogue: 0,0:24:04.21,0:24:10.05,signs,,0,0,0,done,{\fnCyrillicChancellor\b1\bord0\fscx170\fscy170\blur0.5\pos(807.6,680)}Желтохвостка!
-Dialogue: 10,0:24:05.12,0:24:07.56,Default,,0,0,5,,"Снять ограничитель! Желтохвостка!"
+Dialogue: 10,0:24:05.12,0:24:07.56,Default,,0,0,5,,«Снять ограничитель! Желтохвостка!»
 Dialogue: 10,0:24:07.56,0:24:09.19,Default,,0,0,5,,Хвостики мне!{Tail On!}
 
